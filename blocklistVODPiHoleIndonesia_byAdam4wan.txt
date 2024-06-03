@@ -1,6 +1,6 @@
 !Created by www.youtube.com/Adam4wan
 !Adlist ini dapat digunakan untuk memblokir layanan video yang menghabiskan bandwidth & kuota data banyak
-!Contoh : netflix, disney+, primevideo, vidio, visionplus, situs film bajakan, downloader video tiktok youtube, streaming video sampah
+!Contoh : netflix, disney+, primevideo, vidio, visionplus, situs film bajakan, downloader video tiktok youtube, streaming video sampah, live streaming ecommerce
 !Adlist ini TIDAK memblokir akses video Youtube, Tiktok, Facebook Video & Instagram
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 !DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
@@ -22,6 +22,8 @@ api.ttsave.app
 videos.ctfassets.net
 bstream.sgmbocast.com
 bstream.sgmbocast.com.realtek
+play-bs-src.livestream.shopee.co.id
+data-rep.livetech.shopee.co.id
 ||streampoi.com^
 ||driveplayer.net^
 ||teads.tv^

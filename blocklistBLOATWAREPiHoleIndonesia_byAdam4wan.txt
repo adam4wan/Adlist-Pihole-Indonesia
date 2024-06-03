@@ -1,6 +1,7 @@
 !Created by www.youtube.com/Adam4wan
-!Adlist ini dapat digunakan untuk memblokir koneksi bloatware bawaan smartphone & operating system
+!Adlist ini dapat digunakan untuk memblokir koneksi bloatware & operating system bawaan smartphone
 !Harap perhatikan bahwa Adlist ini akan mengganggu koneksi sistem operasi Windows, tidak disarankan menggunakan adlist ini jika menggunakan OS Windows original
+!Berisi juga daftar url koneksi tidak penting aplikasi, contoh : tracker kredivo 
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 !DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
 !----------------BLOATWARE------------------------
@@ -15,6 +16,9 @@ weather-data.apple.com
 oneclient.sfx.ms
 sdk.split.io
 officeclient.microsoft.com
+event-tracker-api.kredivo.com
+i.warranty.oppo.com.itotolink.net
+i.warranty.oppo.com
 ||windowsupdate.com^
 |officeclient.microsoft.com
 ||office365.com^
@@ -32,6 +36,7 @@ officeclient.microsoft.com
 ||heytapmobile.com^
 ||heytapmobi.com^
 ||heytapdl.com^
+||heytapdownload.com^
 ||heytapimg.com^
 ||heytapimage.com^
 ||vivoglobal.com^
@@ -53,6 +58,10 @@ officeclient.microsoft.com
 ||samsungcloud.tv^
 ||samsungdm.com^
 ||samsungcloudsolution.com^
+||samsungcloudsolution.net^
+||samsungcloudplatform.com^
+||samsungpositioning.com^
+||aaplimg.com^
 ||shalltry.com^
 ||eagllwin.com^
 ||wshareit.com^

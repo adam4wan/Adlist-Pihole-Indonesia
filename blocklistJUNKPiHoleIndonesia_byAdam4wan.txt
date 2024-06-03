@@ -1,0 +1,30 @@
+!Created by www.youtube.com/Adam4wan
+!Adlist ini dapat digunakan untuk memblokir koneksi tidak penting, saya menyebutkan koneksi sampah
+!Contoh koneksi yang diblokir : games dan situs berita sampah 
+!Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+!DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+!----------------SAMPAH------------------------
+game-store-data.aftvrsys.com
+static.api.baca.co.id.mcchcdn.com
+static.api.baca.co.id.itotolink.net
+ads.baca.co.id
+||lxtgame.com^
+||ooppgame.com^
+||jetgadget.xyz^
+||gamegamb.com^
+||kidozplayer.com^
+||excellenth5game.com^
+||iningame.com^
+||coolplaygame.com^
+||qdeasygame.com^
+||rhino-news.com^
+||feednews.com^
+||scooper.news^
+||newspointapp.com^
+||amsinews.id^
+||jlyygame.com^
+||rollic.gs^
+||wujisite.com^
+||yukbacaberita.com^
+||pageonenewsapp.com^
+||newsmaticaapp.com^
