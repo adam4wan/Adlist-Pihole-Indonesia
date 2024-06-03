@@ -1,93 +1,59 @@
-#Created by www.youtube.com/Adam4wan
-#Adlist ini dapat digunakan untuk memblokir koneksi bloatware bawaan smartphone & operating system
-#Harap perhatikan bahwa Adlist ini akan mengganggu koneksi sistem operasi Windows, tidak disarankan menggunakan adlist ini jika menggunakan OS Windows original
-#Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
-#DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
-#----------------BLOATWARE------------------------
-0.0.0.0 officecdn.microsoft.com
-0.0.0.0 edge.microsoft.com
-0.0.0.0 edgeservices.bing.com
-0.0.0.0 mediaservices.cdn-apple.com
-0.0.0.0 doh.dns.apple.com
-0.0.0.0 ap.ime.cootek.com
-0.0.0.0 api.hisavana.com
-0.0.0.0 weather-data.apple.com
-0.0.0.0 oneclient.sfx.ms
-0.0.0.0 sdk.split.io
-0.0.0.0 officeclient.microsoft.com
-0.0.0.0 windowsupdate.com
-0.0.0.0 officeclient.microsoft.com
-0.0.0.0 office365.com
-0.0.0.0 msedge.net
-0.0.0.0 ekatox.com
-0.0.0.0 mcafee.com
-0.0.0.0 avast.com
-0.0.0.0 realmemobile.com
-0.0.0.0 realme.com
-0.0.0.0 myoppo.com
-0.0.0.0 oppomobile.com
-0.0.0.0 coloros.com
-0.0.0.0 allawnos.com
-0.0.0.0 ucweb.com
-0.0.0.0 heytapmobile.com
-0.0.0.0 heytapmobi.com
-0.0.0.0 heytapdl.com
-0.0.0.0 heytapimg.com
-0.0.0.0 heytapimage.com
-0.0.0.0 vivoglobal.com
-0.0.0.0 xiaomi.com
-0.0.0.0 xiaomi.net
-0.0.0.0 miui.com
-0.0.0.0 mi-img.com
-0.0.0.0 mcafeewebadvisor.com
-0.0.0.0 cdn-apple.com
-0.0.0.0 samsungcloud.com
-0.0.0.0 samsungosp.com
-0.0.0.0 samsungqbe.com
-0.0.0.0 sesupdate.com
-0.0.0.0 www.pullcm.com
-0.0.0.0 www.pullcf.com
-0.0.0.0 ikeepapps.com
-0.0.0.0 samsungapps.com
-0.0.0.0 samsungmax.com
-0.0.0.0 samsungcloud.tv
-0.0.0.0 samsungdm.com
-0.0.0.0 samsungcloudsolution.com
-0.0.0.0 shalltry.com
-0.0.0.0 eagllwin.com
-0.0.0.0 wshareit.com
-0.0.0.0 st.wshareit.com
-0.0.0.0 icosa-sg.coloros.com
-0.0.0.0 asia-vcode-or.vivoglobal.com
-0.0.0.0 api-gl.cdo.heytapmobi.com
-0.0.0.0 httpdns.ocloud.heytapmobi.com
-0.0.0.0 i.warranty.oppo.com
-0.0.0.0 conn-service-us-05.allawnos.com
-0.0.0.0 conn-service-us-04.allawnos.com
-0.0.0.0 i.warranty.oppo.com.itotolink.net
-0.0.0.0 asia-vpushonrt-stsdk.vivoglobal.com
-0.0.0.0 dragate-sg.dc.oppomobile.com
-0.0.0.0 dzbkjh1.myoppo.com
-0.0.0.0 conn1.oppomobile.com
-0.0.0.0 gslb-gl.cdo.heytapmobi.com
-0.0.0.0 asia-vcode-od.vivoglobal.com
-0.0.0.0 id-store.realmemobile.com
-0.0.0.0 obus-sg.dc.heytapmobile.com
-0.0.0.0 obus-dc20123-sg.heytapmobile.com
-0.0.0.0 dc-dragate-sg.heytapmobile.com
-0.0.0.0 icosa-service-sg.allawnos.com
-0.0.0.0 games-community-sg.heytapmobile.com
-0.0.0.0 mdp-appconf-id.heytapdl.com
-0.0.0.0 asia-comonrt-stsdk.vivoglobal.com
-0.0.0.0 ilockcardf.realme.com
-0.0.0.0 asia-st-sysupgrade.vivoglobal.com
-0.0.0.0 asia-stp.vivoglobal.com
-0.0.0.0 app.chat.global.xiaomi.net
-0.0.0.0 dls.di.atlas.samsung.com
-0.0.0.0 api-id.cdo.heytapmobile.com
-0.0.0.0 sgp-img-c.heytapimg.com
-0.0.0.0 api-id.store.heytapmobi.com
-0.0.0.0 storeimg.heytapimg.com
-0.0.0.0 thm.market.intl.xiaomi.com
-0.0.0.0 asia-exmagazineunlock-proxy.vivoglobal.com
-0.0.0.0 t7.a.market.xiaomi.com
+!Created by www.youtube.com/Adam4wan
+!Adlist ini dapat digunakan untuk memblokir koneksi bloatware bawaan smartphone & operating system
+!Harap perhatikan bahwa Adlist ini akan mengganggu koneksi sistem operasi Windows, tidak disarankan menggunakan adlist ini jika menggunakan OS Windows original
+!Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+!DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+!----------------BLOATWARE------------------------
+|officecdn.microsoft.com
+|edge.microsoft.com
+|edgeservices.bing.com
+|mediaservices.cdn-apple.com
+|doh.dns.apple.com
+|ap.ime.cootek.com
+|api.hisavana.com
+|weather-data.apple.com
+|oneclient.sfx.ms
+|sdk.split.io
+|officeclient.microsoft.com
+||windowsupdate.com^
+|officeclient.microsoft.com
+||office365.com^
+||msedge.net^
+||ekatox.com^
+||mcafee.com^
+||avast.com^
+||realmemobile.com^
+||realme.com^
+||myoppo.com^
+||oppomobile.com^
+||coloros.com^
+||allawnos.com^
+||ucweb.com^
+||heytapmobile.com^
+||heytapmobi.com^
+||heytapdl.com^
+||heytapimg.com^
+||heytapimage.com^
+||vivoglobal.com^
+||xiaomi.com^
+||xiaomi.net^
+||miui.com^
+||mi-img.com^
+||mcafeewebadvisor.com^
+||cdn-apple.com^
+||samsungcloud.com^
+||samsungosp.com^
+||samsungqbe.com^
+||sesupdate.com^
+||pullcm.com^
+||pullcf.com^
+||ikeepapps.com^
+||samsungapps.com^
+||samsungmax.com^
+||samsungcloud.tv^
+||samsungdm.com^
+||samsungcloudsolution.com^
+||shalltry.com^
+||eagllwin.com^
+||wshareit.com^
+||vivo.com^
