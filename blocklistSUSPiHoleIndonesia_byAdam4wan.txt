@@ -1,0 +1,28 @@
+#Update : 03/06/2024 pk 09:00 WIB
+#Created by www.youtube.com/Adam4wan
+#Adlist ini dapat digunakan untuk memblokir situs mencurigakan
+#Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+#DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+#----------------SUSPICIOUS------------------------
+0.0.0.0 coogoanu.net
+0.0.0.0 api.mythad.com
+0.0.0.0 api.puq0w.com
+0.0.0.0 fileonsky.com
+0.0.0.0 miniclippt.com
+0.0.0.0 phaitaghy.com
+0.0.0.0 chimkandiiii.blogspot.com
+0.0.0.0 media-412\.com
+0.0.0.0 byw5pkyk.jfmibkje.biz
+0.0.0.0 funsdata.com
+0.0.0.0 xtracloud.net
+0.0.0.0 6chcdn.com
+0.0.0.0 streaming.split.io
+0.0.0.0 api.trunklease.com
+0.0.0.0 fbs.partners
+0.0.0.0 ap4r.com
+0.0.0.0 cdn.skilledconfine.com
+0.0.0.0 route.fruitelegant.com
+0.0.0.0 pt66hn.com
+0.0.0.0 absencebland.com
+0.0.0.0 brinkoutside.com
+0.0.0.0 t68kscwb5.com

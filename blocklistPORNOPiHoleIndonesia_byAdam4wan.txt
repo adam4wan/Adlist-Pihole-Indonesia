@@ -1,0 +1,34 @@
+#Update : 03/06/2024 pk 09:00 WIB
+#Created by www.youtube.com/Adam4wan
+#Adlist ini dapat digunakan untuk memblokir situs Porno
+#Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+#DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+#----------------PORNO------------------------
+0.0.0.0 tncdn.co
+0.0.0.0 cagrat.com
+0.0.0.0 ds2play.com
+0.0.0.0 imagebam.com
+0.0.0.0 poophd.com
+0.0.0.0 sw-cdnstreamwish.com
+0.0.0.0 emturbovid.com
+0.0.0.0 turbosplayer.com
+0.0.0.0 sptvp.com
+0.0.0.0 filebagasarya.com
+0.0.0.0 enaak-cdn.com
+0.0.0.0 mundiiz.com
+0.0.0.0 amdahost.com
+0.0.0.0 voe.sx
+0.0.0.0 cdn.fluidplayer.com
+0.0.0.0 imgur.com
+0.0.0.0 ibb.co
+0.0.0.0 im-gb.com
+0.0.0.0 dg-videos.b-cdn.net
+0.0.0.0 yurivideo.com
+0.0.0.0 roseimgs.com
+0.0.0.0 swhoi.com
+0.0.0.0 asdolap.com
+0.0.0.0 cdn112.com
+0.0.0.0 videothumbs.me
+0.0.0.0 asnothycan.info
+0.0.0.0 makethink.shop
+0.0.0.0 mdfx9dc8n.net
