@@ -78,3 +78,6 @@
 0.0.0.0 likeevideo.ru
 0.0.0.0 like-video.com
 0.0.0.0 like.video
+0.0.0.0 app.biliintl.com
+0.0.0.0 data.biliintl.com
+0.0.0.0 s22.kwai.net
