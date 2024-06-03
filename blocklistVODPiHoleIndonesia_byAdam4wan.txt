@@ -59,3 +59,4 @@
 0.0.0.0 vishavideo.com
 0.0.0.0 bstream.sgmbocast.com
 0.0.0.0 bstream.sgmbocast.com.realtek
+0.0.0.0 adikfilm.click

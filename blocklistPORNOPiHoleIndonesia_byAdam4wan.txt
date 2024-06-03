@@ -1,6 +1,6 @@
 #Update : 03/06/2024 pk 09:00 WIB
 #Created by www.youtube.com/Adam4wan
-#Adlist ini dapat digunakan untuk memblokir situs Porno
+#Adlist ini dapat digunakan untuk memblokir situs yang terafiliasi dengan konten Porno
 #Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 #DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
 #----------------PORNO------------------------
@@ -32,3 +32,29 @@
 0.0.0.0 asnothycan.info
 0.0.0.0 makethink.shop
 0.0.0.0 mdfx9dc8n.net
+0.0.0.0 forumsemut.com
+0.0.0.0 46.166.167.16
+0.0.0.0 semprot.com
+0.0.0.0 d000d.com
+0.0.0.0 dood.com
+0.0.0.0 d0000d.com
+0.0.0.0 dooood.com
+0.0.0.0 doob.com
+0.0.0.0 doop.com
+0.0.0.0 embedv.net
+0.0.0.0 frdl.to
+0.0.0.0 bembed.net
+0.0.0.0 poop.co
+0.0.0.0 do0od.com
+0.0.0.0 lylxan.com
+0.0.0.0 videovard.sx
+0.0.0.0 d0o0d.com
+0.0.0.0 doodss.com
+0.0.0.0 indojavstream.com
+0.0.0.0 listeamed.net
+0.0.0.0 1024tera.com
+0.0.0.0 terabox.com
+0.0.0.0 teraboxapp.com 
+0.0.0.0 1024terabox.com
+0.0.0.0 ds2play.com
+0.0.0.0 sendvid.com
