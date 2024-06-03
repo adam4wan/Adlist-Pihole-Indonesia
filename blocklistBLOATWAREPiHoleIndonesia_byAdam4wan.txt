@@ -1,0 +1,24 @@
+#Created by www.youtube.com/Adam4wan
+#Adlist ini dapat digunakan untuk memblokir koneksi bloatware bawaan smartphone & operating system
+#Harap perhatikan bahwa Adlist ini akan mengganggu koneksi sistem operasi Windows, tidak disarankan menggunakan adlist ini jika menggunakan OS Windows original
+#Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+#DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+#----------------BLOATWARE------------------------
+0.0.0.0 officecdn.microsoft.com
+0.0.0.0 edge.microsoft.com
+0.0.0.0 edgeservices.bing.com
+0.0.0.0 mediaservices.cdn-apple.com
+0.0.0.0 doh.dns.apple.com
+0.0.0.0 ap.ime.cootek.com
+0.0.0.0 api.hisavana.com
+0.0.0.0 weather-data.apple.com
+0.0.0.0 oneclient.sfx.ms
+0.0.0.0 sdk.split.io
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 windowsupdate.com
+0.0.0.0 officeclient.microsoft.com
+0.0.0.0 office365.com
+0.0.0.0 msedge.net
+0.0.0.0 ekatox.com
+0.0.0.0 mcafee.com
+0.0.0.0 avast.com

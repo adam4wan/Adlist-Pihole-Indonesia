@@ -1,4 +1,3 @@
-#Update : 03/06/2024 pk 09:00 WIB
 #Created by www.youtube.com/Adam4wan
 #Adlist ini dapat digunakan untuk memblokir layanan video yang menghabiskan bandwidth & kuota data banyak
 #Contoh : netflix, disney+, primevideo, vidio, visionplus, situs film bajakan, downloader video tiktok youtube, streaming video sampah
@@ -60,3 +59,22 @@
 0.0.0.0 bstream.sgmbocast.com
 0.0.0.0 bstream.sgmbocast.com.realtek
 0.0.0.0 adikfilm.click
+0.0.0.0 kwaipros.com
+0.0.0.0 kwai.com
+0.0.0.0 kwai-pro.com
+0.0.0.0 ksmobile.net
+0.0.0.0 liveme.com
+0.0.0.0 twitch.tv
+0.0.0.0 livu.me
+0.0.0.0 ome.tv
+0.0.0.0 micous.com
+0.0.0.0 tango.me
+0.0.0.0 ichamet.com
+0.0.0.0 likee.video
+0.0.0.0 kwai.net
+0.0.0.0 kwimgs.com
+0.0.0.0 snaptik.app
+0.0.0.0 jarteaused.live
+0.0.0.0 likeevideo.ru
+0.0.0.0 like-video.com
+0.0.0.0 like.video
