@@ -19,8 +19,8 @@ officeclient.microsoft.com
 event-tracker-api.kredivo.com
 i.warranty.oppo.com.itotolink.net
 i.warranty.oppo.com
+officeclient.microsoft.com
 ||windowsupdate.com^
-|officeclient.microsoft.com
 ||office365.com^
 ||msedge.net^
 ||ekatox.com^
