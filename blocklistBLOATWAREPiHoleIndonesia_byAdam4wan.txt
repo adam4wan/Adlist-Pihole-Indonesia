@@ -4,17 +4,17 @@
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 !DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
 !----------------BLOATWARE------------------------
-|officecdn.microsoft.com
-|edge.microsoft.com
-|edgeservices.bing.com
-|mediaservices.cdn-apple.com
-|doh.dns.apple.com
-|ap.ime.cootek.com
-|api.hisavana.com
-|weather-data.apple.com
-|oneclient.sfx.ms
-|sdk.split.io
-|officeclient.microsoft.com
+officecdn.microsoft.com
+edge.microsoft.com
+edgeservices.bing.com
+mediaservices.cdn-apple.com
+doh.dns.apple.com
+ap.ime.cootek.com
+api.hisavana.com
+weather-data.apple.com
+oneclient.sfx.ms
+sdk.split.io
+officeclient.microsoft.com
 ||windowsupdate.com^
 |officeclient.microsoft.com
 ||office365.com^
