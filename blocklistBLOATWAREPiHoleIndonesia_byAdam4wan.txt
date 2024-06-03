@@ -57,3 +57,7 @@ officeclient.microsoft.com
 ||eagllwin.com^
 ||wshareit.com^
 ||vivo.com^
+||facemojikeyboard.com^
+||azureedge.net^
+||appcenter.ms^
+||microsoftapp.net^

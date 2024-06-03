@@ -78,3 +78,5 @@ bstream.sgmbocast.com.realtek
 ||likeevideo.ru^
 ||like-video.com^
 ||like.video^
+||snackvideo.in^
+||amazonvideo.com^
