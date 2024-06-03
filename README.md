@@ -11,7 +11,7 @@ Pembaruan adlist ini dilakukan oleh satu orang, jika Anda berkeinginan membantu,
 
 ## Instalasi
 
-Cukup salin dan tempel alamat URL adlist yang ingin digunakan ke bagian Adlist Pi-Hole masing-masing. Lalu, update gravity Pi-Hole agar adlist Pi-Hole memperbarui daftar adlist nya.
+Cukup salin dan tempel "RAW" alamat URL adlist yang ingin digunakan ke bagian Adlist Pi-Hole masing-masing. Lalu, update gravity Pi-Hole agar adlist Pi-Hole memperbarui daftar adlist nya.
 
 ## Dukungan
 
