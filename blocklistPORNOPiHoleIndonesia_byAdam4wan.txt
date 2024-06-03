@@ -1,59 +1,59 @@
-#Created by www.youtube.com/Adam4wan
-#Adlist ini dapat digunakan untuk memblokir situs yang terafiliasi dengan konten Porno
-#Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
-#DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
-#----------------PORNO------------------------
-0.0.0.0 tncdn.co
-0.0.0.0 cagrat.com
-0.0.0.0 ds2play.com
-0.0.0.0 imagebam.com
-0.0.0.0 poophd.com
-0.0.0.0 sw-cdnstreamwish.com
-0.0.0.0 emturbovid.com
-0.0.0.0 turbosplayer.com
-0.0.0.0 sptvp.com
-0.0.0.0 filebagasarya.com
-0.0.0.0 enaak-cdn.com
-0.0.0.0 mundiiz.com
-0.0.0.0 amdahost.com
-0.0.0.0 voe.sx
-0.0.0.0 cdn.fluidplayer.com
-0.0.0.0 imgur.com
-0.0.0.0 ibb.co
-0.0.0.0 im-gb.com
-0.0.0.0 dg-videos.b-cdn.net
-0.0.0.0 yurivideo.com
-0.0.0.0 roseimgs.com
-0.0.0.0 swhoi.com
-0.0.0.0 asdolap.com
-0.0.0.0 cdn112.com
-0.0.0.0 videothumbs.me
-0.0.0.0 asnothycan.info
-0.0.0.0 makethink.shop
-0.0.0.0 mdfx9dc8n.net
-0.0.0.0 forumsemut.com
-0.0.0.0 46.166.167.16
-0.0.0.0 semprot.com
-0.0.0.0 d000d.com
-0.0.0.0 dood.com
-0.0.0.0 d0000d.com
-0.0.0.0 dooood.com
-0.0.0.0 doob.com
-0.0.0.0 doop.com
-0.0.0.0 embedv.net
-0.0.0.0 frdl.to
-0.0.0.0 bembed.net
-0.0.0.0 poop.co
-0.0.0.0 do0od.com
-0.0.0.0 lylxan.com
-0.0.0.0 videovard.sx
-0.0.0.0 d0o0d.com
-0.0.0.0 doodss.com
-0.0.0.0 indojavstream.com
-0.0.0.0 listeamed.net
-0.0.0.0 1024tera.com
-0.0.0.0 terabox.com
-0.0.0.0 teraboxapp.com 
-0.0.0.0 1024terabox.com
-0.0.0.0 ds2play.com
-0.0.0.0 sendvid.com
+!Created by www.youtube.com/Adam4wan
+!Adlist ini dapat digunakan untuk memblokir situs yang terafiliasi dengan konten Porno
+!Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+!DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+!----------------PORNO------------------------
+cdn.fluidplayer.com
+dg-videos.b-cdn.net
+||tncdn.co^
+||cagrat.com^
+||ds2play.com^
+||imagebam.com^
+||poophd.com^
+||sw-cdnstreamwish.com^
+||emturbovid.com^
+||turbosplayer.com^
+||sptvp.com^
+||filebagasarya.com^
+||enaak-cdn.com^
+||mundiiz.com^
+||amdahost.com^
+||voe.sx^
+||imgur.com^
+||ibb.co^
+||im-gb.com^
+||yurivideo.com^
+||roseimgs.com^
+||swhoi.com^
+||asdolap.com^
+||cdn112.com^
+||videothumbs.me^
+||asnothycan.info^
+||makethink.shop^
+||mdfx9dc8n.net^
+||forumsemut.com^
+||46.166.167.16^
+||semprot.com^
+||d000d.com^
+||dood.com^
+||d0000d.com^
+||dooood.com^
+||doob.com^
+||doop.com^
+||embedv.net^
+||frdl.to^
+||bembed.net^
+||poop.co^
+||do0od.com^
+||lylxan.com^
+||videovard.sx^
+||d0o0d.com^
+||doodss.com^
+||indojavstream.com^
+||listeamed.net^
+||1024tera.com^
+||terabox.com^
+||teraboxapp.com^
+||1024terabox.com^
+||ds2play.com^
+||sendvid.com^

@@ -1,54 +1,45 @@
-#Created by www.youtube.com/Adam4wan
-#Adlist ini dapat digunakan untuk memblokir situs judi, terlarang, berbahaya, mencurigakan dan porno
-#Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
-#DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
-#----------------JUDI------------------------
-0.0.0.0 api.3lfhl.com
-0.0.0.0 api.6rp70.com
-0.0.0.0 kliniktongpeng.store
-0.0.0.0 partnerwin.store
-0.0.0.0 bestiebet88media.com
-0.0.0.0 domainbaru.xyz
-0.0.0.0 okey.baby
-0.0.0.0 depo.melaui
-0.0.0.0 ss287.vitunews.com
-0.0.0.0 royalqqid.com
-0.0.0.0 api.royalqqid.com
-0.0.0.0 royalfaid.com
-0.0.0.0 api.royalfaid.com
-0.0.0.0 chillaxgaming.com
-0.0.0.0 api.chillaxgaming.com
-0.0.0.0 playland-game.com
-0.0.0.0 api.playland-game.com
-0.0.0.0 ne9cs.com
-0.0.0.0 api.ne9cs.com
-0.0.0.0 papa303-2.firebaseapp.com
-0.0.0.0 www.pp303.online
-0.0.0.0 server.p200mhq.com
-0.0.0.0 imgnxb.com
-0.0.0.0 imgnxa.com
-0.0.0.0 nexus2wlb.com
-0.0.0.0 trgwl.com
-0.0.0.0 www.pjs168-resmi.shop
-0.0.0.0 royaldmid.com
-0.0.0.0 chelseanashville.com
-0.0.0.0 royaljpid.com
-0.0.0.0 api.royaljpid.com
-0.0.0.0 royalstid.com
-0.0.0.0 api.royalstid.com
-0.0.0.0 pland88jepe.net
-0.0.0.0 api.pland88jepe.net
-0.0.0.0 mhaxv.com
-0.0.0.0 glekh.com
-0.0.0.0 pzzhm.com
-0.0.0.0 zhugeliang.click
-0.0.0.0 ausnahmezeit.com
-0.0.0.0 bandungcctv.com
-0.0.0.0 om-server.btc42.com
-0.0.0.0 situsterbaik.website
-0.0.0.0 eyangboom.info
-0.0.0.0 royaldd.com
-0.0.0.0 api.royaldd.com
-0.0.0.0 casinovegas88.win
-0.0.0.0 pl88app.com
-0.0.0.0 calmgamingcove8.com
+!Created by www.youtube.com/Adam4wan
+!Adlist ini dapat digunakan untuk memblokir situs judi, terlarang, berbahaya, mencurigakan dan porno
+!Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+!DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+!----------------JUDI------------------------
+api.3lfhl.com
+api.6rp70.com
+ss287.vitunews.com
+papa303-2.firebaseapp.com
+server.p200mhq.com
+om-server.btc42.com
+||kliniktongpeng.store
+||partnerwin.store
+||bestiebet88media.com
+||domainbaru.xyz
+||okey.baby
+||depo.melaui
+||royalqqid.com
+||royalfaid.com
+||chillaxgaming.com
+||playland-game.com
+||ne9cs.com
+||pp303.online
+||imgnxb.com
+||imgnxa.com
+||nexus2wlb.com
+||trgwl.com
+||pjs168-resmi.shop
+||royaldmid.com
+||chelseanashville.com
+||royaljpid.com
+||royalstid.com
+||pland88jepe.net
+||mhaxv.com
+||glekh.com
+||pzzhm.com
+||zhugeliang.click
+||ausnahmezeit.com
+||bandungcctv.com
+||situsterbaik.website
+||eyangboom.info
+||royaldd.com
+||casinovegas88.win
+||pl88app.com
+||calmgamingcove8.com

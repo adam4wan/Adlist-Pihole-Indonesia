@@ -1,87 +1,80 @@
-#Created by www.youtube.com/Adam4wan
-#Adlist ini dapat digunakan untuk memblokir layanan video yang menghabiskan bandwidth & kuota data banyak
-#Contoh : netflix, disney+, primevideo, vidio, visionplus, situs film bajakan, downloader video tiktok youtube, streaming video sampah
-#Adlist ini TIDAK memblokir akses video Youtube, Tiktok, Facebook Video & Instagram
-#Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
-#DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
-#----------------VOD STREAMING------------------------
-0.0.0.0 streampoi.com
-0.0.0.0 driveplayer.net
-0.0.0.0 teads.tv
-0.0.0.0 skype.com
-0.0.0.0 uptostream.com
-0.0.0.0 videostream.bankbsi.co.id
-0.0.0.0 vod.insertlive.com
-0.0.0.0 vod.cnnindonesia.com
-0.0.0.0 stream.jixie.media
-0.0.0.0 biliintl.com
-0.0.0.0 shorttv.app
-0.0.0.0 videos.cdn.spotlightr.com
-0.0.0.0 vimeocdn.com
-0.0.0.0 viu.com
-0.0.0.0 hotstar.com
-0.0.0.0 primevideo.com
-0.0.0.0 netflix.com
-0.0.0.0 vod.cnbcindonesia.com
-0.0.0.0 nflxso.net
-0.0.0.0 netflix.net
-0.0.0.0 nflxext.com
-0.0.0.0 maxstream.tv
-0.0.0.0 vidio.com
-0.0.0.0 vidiocdn.net
-0.0.0.0 vidiocdn.com
-0.0.0.0 visionplus.id
-0.0.0.0 cdn.jwplayer.com
-0.0.0.0 gidplayer.online
-0.0.0.0 videomate.mobi
-0.0.0.0 bstream.kzhi.tech
-0.0.0.0 igdownloader.app
-0.0.0.0 stream.rctiplus.id
-0.0.0.0 bstream.hzmklvdieo.com
-0.0.0.0 api.bytegle.tech
-0.0.0.0 ksmobile.com
-0.0.0.0 stories.apexnews-sea.com
-0.0.0.0 likr.tw
-0.0.0.0 snapsave.app
-0.0.0.0 api.ttsave.app
-0.0.0.0 video.jixie.media
-0.0.0.0 nflximg.com
-0.0.0.0 20.detik.com
-0.0.0.0 ghabovethec.info
-0.0.0.0 rebahin.diy
-0.0.0.0 sobat21.info
-0.0.0.0 apkomega.com
-0.0.0.0 ssstik.io
-0.0.0.0 videos.ctfassets.net
-0.0.0.0 turkeycalling.us
-0.0.0.0 dunia21.website
-0.0.0.0 vishavideo.com
-0.0.0.0 bstream.sgmbocast.com
-0.0.0.0 bstream.sgmbocast.com.realtek
-0.0.0.0 adikfilm.click
-0.0.0.0 kwaipros.com
-0.0.0.0 kwai.com
-0.0.0.0 kwai-pro.com
-0.0.0.0 ksmobile.net
-0.0.0.0 liveme.com
-0.0.0.0 twitch.tv
-0.0.0.0 livu.me
-0.0.0.0 ome.tv
-0.0.0.0 micous.com
-0.0.0.0 tango.me
-0.0.0.0 ichamet.com
-0.0.0.0 likee.video
-0.0.0.0 kwai.net
-0.0.0.0 kwimgs.com
-0.0.0.0 snaptik.app
-0.0.0.0 jarteaused.live
-0.0.0.0 likeevideo.ru
-0.0.0.0 like-video.com
-0.0.0.0 like.video
-0.0.0.0 app.biliintl.com
-0.0.0.0 data.biliintl.com
-0.0.0.0 s22.kwai.net
-0.0.0.0 k-api.kwaipros.com
-0.0.0.0 cdn-static.kwai.net
-0.0.0.0 ulog.kwaipros.com
-0.0.0.0 api.kwai-pro.com
+!Created by www.youtube.com/Adam4wan
+!Adlist ini dapat digunakan untuk memblokir layanan video yang menghabiskan bandwidth & kuota data banyak
+!Contoh : netflix, disney+, primevideo, vidio, visionplus, situs film bajakan, downloader video tiktok youtube, streaming video sampah
+!Adlist ini TIDAK memblokir akses video Youtube, Tiktok, Facebook Video & Instagram
+!Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+!DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+!----------------VOD STREAMING------------------------
+videostream.bankbsi.co.id
+vod.insertlive.com
+vod.cnnindonesia.com
+stream.jixie.media
+videos.cdn.spotlightr.com
+vod.cnbcindonesia.com
+cdn.jwplayer.com
+bstream.kzhi.tech
+stream.rctiplus.id
+bstream.hzmklvdieo.com
+api.bytegle.tech
+stories.apexnews-sea.com
+video.jixie.media
+api.ttsave.app
+videos.ctfassets.net
+bstream.sgmbocast.com
+bstream.sgmbocast.com.realtek
+||streampoi.com^
+||driveplayer.net^
+||teads.tv^
+||skype.com^
+||uptostream.com^
+||biliintl.com^
+||shorttv.app^
+||vimeocdn.com^
+||viu.com^
+||hotstar.com^
+||primevideo.com^
+||netflix.com^
+||nflxso.net^
+||netflix.net^
+||nflxext.com^
+||maxstream.tv^
+||vidio.com^
+||vidiocdn.net^
+||vidiocdn.com^
+||visionplus.id^
+||gidplayer.online^
+||videomate.mobi^
+||igdownloader.app^
+||ksmobile.com^
+||likr.tw^
+||snapsave.app^
+||nflximg.com^
+||20.detik.com^
+||ghabovethec.info^
+||rebahin.diy^
+||sobat21.info^
+||apkomega.com^
+||ssstik.io^
+||turkeycalling.us^
+||dunia21.website^
+||vishavideo.com^
+||adikfilm.click^
+||kwaipros.com^
+||kwai.com^
+||kwai-pro.com^
+||ksmobile.net^
+||liveme.com^
+||twitch.tv^
+||livu.me^
+||ome.tv^
+||micous.com^
+||tango.me^
+||ichamet.com^
+||likee.video^
+||kwai.net^
+||kwimgs.com^
+||snaptik.app^
+||jarteaused.live^
+||likeevideo.ru^
+||like-video.com^
+||like.video^
