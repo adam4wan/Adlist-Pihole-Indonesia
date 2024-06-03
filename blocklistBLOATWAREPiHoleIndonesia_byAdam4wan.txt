@@ -83,3 +83,11 @@
 0.0.0.0 asia-st-sysupgrade.vivoglobal.com
 0.0.0.0 asia-stp.vivoglobal.com
 0.0.0.0 app.chat.global.xiaomi.net
+0.0.0.0 dls.di.atlas.samsung.com
+0.0.0.0 api-id.cdo.heytapmobile.com
+0.0.0.0 sgp-img-c.heytapimg.com
+0.0.0.0 api-id.store.heytapmobi.com
+0.0.0.0 storeimg.heytapimg.com
+0.0.0.0 thm.market.intl.xiaomi.com
+0.0.0.0 asia-exmagazineunlock-proxy.vivoglobal.com
+0.0.0.0 t7.a.market.xiaomi.com

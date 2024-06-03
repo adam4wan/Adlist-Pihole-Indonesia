@@ -81,3 +81,7 @@
 0.0.0.0 app.biliintl.com
 0.0.0.0 data.biliintl.com
 0.0.0.0 s22.kwai.net
+0.0.0.0 k-api.kwaipros.com
+0.0.0.0 cdn-static.kwai.net
+0.0.0.0 ulog.kwaipros.com
+0.0.0.0 api.kwai-pro.com

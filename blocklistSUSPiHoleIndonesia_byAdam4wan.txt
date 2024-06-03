@@ -25,3 +25,4 @@
 0.0.0.0 absencebland.com
 0.0.0.0 brinkoutside.com
 0.0.0.0 t68kscwb5.com
+0.0.0.0 cdn-static.ap4r.com
