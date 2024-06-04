@@ -24,6 +24,7 @@ bstream.sgmbocast.com
 bstream.sgmbocast.com.realtek
 play-bs-src.livestream.shopee.co.id
 data-rep.livetech.shopee.co.id
+ulog.kwaipros.com.itotolink.net
 ||streampoi.com^
 ||driveplayer.net^
 ||teads.tv^
@@ -83,3 +84,7 @@ data-rep.livetech.shopee.co.id
 ||snackvideo.in^
 ||amazonvideo.com^
 ||hxfile.co^
+||videy.co^
+||snaptik.gg^
+||kskwai.com^
+||vidmate.net^

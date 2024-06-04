@@ -25,3 +25,4 @@ route.fruitelegant.com
 ||absencebland.com^
 ||brinkoutside.com^
 ||t68kscwb5.com^
+||scorchads.com^

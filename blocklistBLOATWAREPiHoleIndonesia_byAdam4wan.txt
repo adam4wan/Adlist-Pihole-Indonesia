@@ -20,6 +20,7 @@ event-tracker-api.kredivo.com
 i.warranty.oppo.com.itotolink.net
 i.warranty.oppo.com
 officeclient.microsoft.com
+componentupdater.brave.com
 ||windowsupdate.com^
 ||office365.com^
 ||msedge.net^
@@ -70,3 +71,5 @@ officeclient.microsoft.com
 ||azureedge.net^
 ||appcenter.ms^
 ||microsoftapp.net^
+||finzfin.com^
+||pa1mstore.com^

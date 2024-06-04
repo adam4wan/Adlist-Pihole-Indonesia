@@ -8,6 +8,9 @@ game-store-data.aftvrsys.com
 static.api.baca.co.id.mcchcdn.com
 static.api.baca.co.id.itotolink.net
 ads.baca.co.id
+pict.sindonews.net
+rs_tt.wshareit.com.itotolink.net
+st.wshareit.com.itotolink.net
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
