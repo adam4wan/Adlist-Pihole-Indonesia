@@ -8,6 +8,7 @@
 4. **VOD** = berisi daftar situs layanan berbasis video. Blocklist ini cocok digunakan untuk membatasi akses pengguna ke layanan berbasis video yang terkesan boros bandwidth dan menghabiskan kuota data dengan cepat.
 5. **Bloatware** = berisi daftar url yang bersifat bloatware. Blocklist ini dapat digunakan untuk membatasi koneksi yang tidak perlu dari aplikasi dan sistem operasi bawaan perangkat. Blocklist ini mungkin akan mengganggu kinerja aplikasi dan sistem operasi bawaan di perangkat Anda, sangat penting untuk mencoba terlebih dahulu. Jika Anda menemukan blocklist ini  mengganggu kinerja perangkat Anda sehari-hari maka disarankan untuk tidak menggunakan blocklist ini.
 6. **Junk** = berisi daftar url yang tidak penting dan terkesan membentuk koneksi sampah.
+7. **BIG** = berisi daftar layanan penyimpanan data berbasis cloud. Harap perhatikan bahwa blocklist ini tidak memblokir akses ke google drive, one drive dan icloud. Gunakan blocklist ini untuk membatasi akses download dan upload file yang menghabiskan bandwidth dan data secara berlebihan.
 
 _Pembaruan Blocklist ini dilakukan oleh satu orang_, jika ada berkeinginan membantu, Anda dapat berpartisipasi memperbarui Blocklist ini dengan mengirim daftar url lokal yang semestinya harus ada melalui dukungan.
 
