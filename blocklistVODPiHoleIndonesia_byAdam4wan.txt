@@ -1,7 +1,7 @@
 !Created by www.youtube.com/Adam4wan
 !Adlist ini dapat digunakan untuk memblokir layanan video yang menghabiskan bandwidth & kuota data banyak
 !Contoh : netflix, disney+, primevideo, vidio, visionplus, situs film bajakan, downloader video tiktok youtube, streaming video sampah, live streaming ecommerce
-!Adlist ini TIDAK memblokir akses video Youtube, Tiktok, Facebook Video & Instagram
+!Adlist ini TIDAK memblokir akses video Youtube, Tiktok, Facebook Video, Instagram, Capcut
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 !DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
 !----------------VOD STREAMING------------------------

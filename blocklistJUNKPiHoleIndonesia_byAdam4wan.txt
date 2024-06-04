@@ -1,5 +1,5 @@
 !Created by www.youtube.com/Adam4wan
-!Adlist ini dapat digunakan untuk memblokir koneksi tidak penting, saya menyebutkan koneksi sampah
+!Adlist ini dapat digunakan untuk memblokir koneksi tidak penting, saya menyebutnya koneksi sampah
 !Contoh koneksi yang diblokir : games dan situs berita sampah 
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 !DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
@@ -11,6 +11,7 @@ ads.baca.co.id
 pict.sindonews.net
 rs_tt.wshareit.com.itotolink.net
 st.wshareit.com.itotolink.net
+ubt.tracking.shopee.co.id
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
@@ -32,3 +33,5 @@ st.wshareit.com.itotolink.net
 ||pageonenewsapp.com^
 ||newsmaticaapp.com^
 ||qyxgame.com^
+||tocaboca.com^
+||push-pigeon.com^
