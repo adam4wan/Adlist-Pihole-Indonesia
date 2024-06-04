@@ -51,9 +51,5 @@ dg-videos.b-cdn.net
 ||doodss.com^
 ||indojavstream.com^
 ||listeamed.net^
-||1024tera.com^
-||terabox.com^
-||teraboxapp.com^
-||1024terabox.com^
 ||ds2play.com^
 ||sendvid.com^

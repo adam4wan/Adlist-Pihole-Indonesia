@@ -1,0 +1,44 @@
+!Created by www.youtube.com/Adam4wan
+!Adlist ini dapat digunakan untuk memblokir akses ke penyedia layanan penyimpanan data
+!Contoh penyedia layanan penyimpanan cloud yang diblokir : mediafire, terabox, acefile, dropbox
+!Tidak memblokir akses ke google drive, one drive dan icloud
+!Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+!DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+!----------------BIG DATA------------------------
+||1024tera.com^
+||terabox.com^
+||teraboxapp.com^
+||1024terabox.com^
+||acefile.co^
+||mediafire.com^
+||mediafire.es^
+||mediafiredls.com^
+||dropbox.com^
+||mega.nz^
+||filemoon.in^
+||filelions.com^
+||mixdrop.ag^
+||mixdrop.co^
+||mixdrop.to^
+||sfile.mobi^
+||mirrored.to^
+||gofile.io^
+||gofile.me^
+||send.cm^
+||1fichier.com^
+||megaup.net^
+||krakenfiles.com^
+||clicknupload.click^
+||usersdrive.com^
+||filesdl.cloud^
+||uptobox.com^
+||linkbox.to^
+||wetransfer.com^
+||onehub.com^
+||idrive.com^
+||pcloud.com^
+||sync.com^
+||box.com^
+||nextcloud.com^
+||owncloud.com^
+||cloudstorage.co.id^

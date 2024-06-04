@@ -82,3 +82,4 @@ data-rep.livetech.shopee.co.id
 ||like.video^
 ||snackvideo.in^
 ||amazonvideo.com^
+||hxfile.co^
