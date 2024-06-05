@@ -30,6 +30,7 @@ qdown-sp-id.vod.susercontent.com
 mms.vod.susercontent.com
 play-bs-src.livestream.shopee.co.id
 data-rep.livetech.shopee.co.id
+lazvideo.lazcdn.com
 ulog.kwaipros.com.itotolink.net
 u.viiisrbp.com
 tv.apple.com
