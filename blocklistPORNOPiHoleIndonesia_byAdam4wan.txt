@@ -53,3 +53,5 @@ dg-videos.b-cdn.net
 ||listeamed.net^
 ||ds2play.com^
 ||sendvid.com^
+||mdakky.com^
+||npcjtq.com^

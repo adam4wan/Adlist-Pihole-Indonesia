@@ -17,6 +17,9 @@ oneclient.sfx.ms
 sdk.split.io
 officeclient.microsoft.com
 event-tracker-api.kredivo.com
+httpdns.push.oppomobile.com.itotolink.net
+httpdns-push.heytapmobile.com.itotolink.net
+slb-apisnd-in.heytapmobile.com.itotolink.net
 i.warranty.oppo.com.itotolink.net
 i.warranty.oppo.com
 officeclient.microsoft.com
