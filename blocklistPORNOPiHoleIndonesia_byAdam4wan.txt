@@ -56,3 +56,4 @@ dg-videos.b-cdn.net
 ||sendvid.com^
 ||mdakky.com^
 ||npcjtq.com^
+||filemoon.sx^

@@ -27,6 +27,10 @@ acs.maribacaberita.com.itotolink.net
 firebase-settings.crashlytics.com
 gcm.ksmobile.net.itotolink.net
 tracking.eu.flamtyr.com
+feed-7188.feedfinder23.info
+aax-fe-sin.amazon-adsystem.com
+c.amazon-adsystem.com
+gateway.prod.anzu-us.com
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
@@ -52,3 +56,5 @@ tracking.eu.flamtyr.com
 ||push-pigeon.com^
 ||ndedemalodge.co.za^
 ||veachy.com^
+||infohubnews.app^
+||playrix.com^

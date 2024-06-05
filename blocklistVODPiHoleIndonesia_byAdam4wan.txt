@@ -128,3 +128,5 @@ video.sindonews.com
 ||indihometv.com^
 ||cubmu.com^
 ||mewatch.sg^
+||sohib21.art^
+||streamwish.to^

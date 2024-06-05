@@ -10,6 +10,7 @@ edge.microsoft.com
 edgeservices.bing.com
 mediaservices.cdn-apple.com
 doh.dns.apple.com
+gateway.icloud.com
 ap.ime.cootek.com
 api.hisavana.com
 weather-data.apple.com
@@ -24,6 +25,7 @@ i.warranty.oppo.com.itotolink.net
 i.warranty.oppo.com
 officeclient.microsoft.com
 componentupdater.brave.com
+dls-udc.dqa.samsung.com
 ||windowsupdate.com^
 ||office365.com^
 ||msedge.net^
