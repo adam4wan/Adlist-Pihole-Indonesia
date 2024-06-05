@@ -11,6 +11,7 @@ dg-videos.b-cdn.net
 ||imagebam.com^
 ||poophd.com^
 ||sw-cdnstreamwish.com^
+||streamwish.com^
 ||emturbovid.com^
 ||turbosplayer.com^
 ||sptvp.com^

@@ -42,3 +42,5 @@
 ||nextcloud.com^
 ||owncloud.com^
 ||cloudstorage.co.id^
+||funpavo.com^
+||apkpure.net^
