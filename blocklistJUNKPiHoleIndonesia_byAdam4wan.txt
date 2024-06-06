@@ -31,6 +31,11 @@ feed-7188.feedfinder23.info
 aax-fe-sin.amazon-adsystem.com
 c.amazon-adsystem.com
 gateway.prod.anzu-us.com
+api.bobble.ai
+api.bidmachine.io
+api.kika-backend.com
+api.goads2023.com
+api.revenuecat.com
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
@@ -58,3 +63,5 @@ gateway.prod.anzu-us.com
 ||veachy.com^
 ||infohubnews.app^
 ||playrix.com^
+||shortpixel.ai^
+||topanwin-game.com^
