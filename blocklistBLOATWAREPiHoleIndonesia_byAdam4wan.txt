@@ -17,6 +17,7 @@ weather-data.apple.com
 oneclient.sfx.ms
 sdk.split.io
 officeclient.microsoft.com
+ecs.office.com
 event-tracker-api.kredivo.com
 httpdns.push.oppomobile.com.itotolink.net
 httpdns-push.heytapmobile.com.itotolink.net
@@ -25,6 +26,8 @@ i.warranty.oppo.com.itotolink.net
 i.warranty.oppo.com
 officeclient.microsoft.com
 componentupdater.brave.com
+go-updater.brave.com
+api.rewards.brave.com
 dls-udc.dqa.samsung.com
 dls.di.atlas.samsung.com
 api.shop.samsung.com

@@ -36,6 +36,10 @@ api.bidmachine.io
 api.kika-backend.com
 api.goads2023.com
 api.revenuecat.com
+api.pazucloud.com
+gx-api.geniex.com
+pkxd-lobby.playpkxd.com
+pkxd-lobby.aftvrsys.com
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^

@@ -22,14 +22,6 @@ api.ttsave.app
 videos.ctfassets.net
 bstream.sgmbocast.com
 bstream.sgmbocast.com.realtek
-!down-aka-id.vod.susercontent.com
-!down-tx-id.vod.susercontent.com
-!down-ws-id.vod.susercontent.com
-!down-cvs-id.vod.susercontent.com
-!down-cvs-sg.vod.susercontent.com
-!qdown-sp-id.vod.susercontent.com
-!down-aka-sg.vod.susercontent.com
-!mms.vod.susercontent.com
 play-bs-src.livestream.shopee.co.id
 data-rep.livetech.shopee.co.id
 vod-sg.upload.sp-cdn.shopee.com
