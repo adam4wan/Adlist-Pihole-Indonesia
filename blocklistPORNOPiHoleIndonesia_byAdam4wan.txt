@@ -62,3 +62,4 @@ i-imgur-com.cdn.ampproject.org
 ||filemoon.sx^
 ||cepatjadi6.click^
 ||febrare.ru^
+||vidhide.com^

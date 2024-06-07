@@ -133,3 +133,6 @@ kix-api.kpr0.com
 ||vod.susercontent.com^
 ||drillingstarlightsupper.com^
 ||megavideosss.com^
+||snaptube.com^
+||bigo.tv^
+||bilivideo.com^
