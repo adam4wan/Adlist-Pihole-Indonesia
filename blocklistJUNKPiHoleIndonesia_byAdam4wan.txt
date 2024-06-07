@@ -40,6 +40,12 @@ api.pazucloud.com
 gx-api.geniex.com
 pkxd-lobby.playpkxd.com
 pkxd-lobby.aftvrsys.com
+ad.letmeads.com
+app.platoapp.com
+games-prod.platocdn.com
+ib.isappcloud.com
+image.platoapp.com
+images.kaik.ai
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
@@ -69,3 +75,5 @@ pkxd-lobby.aftvrsys.com
 ||playrix.com^
 ||shortpixel.ai^
 ||topanwin-game.com^
+||hitcounter.ru^
+||gamepe.ru^

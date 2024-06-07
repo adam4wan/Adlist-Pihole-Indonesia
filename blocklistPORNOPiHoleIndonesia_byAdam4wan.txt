@@ -42,6 +42,8 @@ i-imgur-com.cdn.ampproject.org
 ||dooood.com^
 ||doob.com^
 ||doop.com^
+||dood.ws^
+||doodcdn.co^
 ||embedv.net^
 ||frdl.to^
 ||bembed.net^
@@ -58,3 +60,5 @@ i-imgur-com.cdn.ampproject.org
 ||mdakky.com^
 ||npcjtq.com^
 ||filemoon.sx^
+||cepatjadi6.click^
+||febrare.ru^

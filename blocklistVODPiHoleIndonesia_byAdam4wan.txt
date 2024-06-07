@@ -74,6 +74,7 @@ kix-api.kpr0.com
 ||ksmobile.com^
 ||likr.tw^
 ||snapsave.app^
+||downtik.io^
 ||nflximg.com^
 ||20.detik.com^
 ||ghabovethec.info^
@@ -130,3 +131,5 @@ kix-api.kpr0.com
 ||streamwish.to^
 ||ivideosmart.com^
 ||vod.susercontent.com^
+||drillingstarlightsupper.com^
+||megavideosss.com^
