@@ -46,6 +46,14 @@ games-prod.platocdn.com
 ib.isappcloud.com
 image.platoapp.com
 images.kaik.ai
+ktracker.kumparan.com
+widget.kumparan.com
+mab.chartbeat.com
+s0.2mdn.net
+sb.scorecardresearch.com
+mdp-appconf-sg.heytapdl.com.itotolink.net
+bstream.sgmbocast.com.itotolink.net
+ads.inmobi.com
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^

@@ -29,6 +29,7 @@ vod.tokopedia.net.w.kunlunsl.com
 lazvideo.lazcdn.com
 ulog.kwaipros.com.itotolink.net
 u.viiisrbp.com
+image.tmdb.org
 tv.apple.com
 tv.okezone.com
 video.sindonews.com
@@ -136,3 +137,8 @@ kix-api.kpr0.com
 ||snaptube.com^
 ||bigo.tv^
 ||bilivideo.com^
+||rebahin21.fun^
+||podcastjournal.org^
+||jacksonhallbarandgrille.com^
+||gliavideo.com^
+||crazyvideotodownload.com^
