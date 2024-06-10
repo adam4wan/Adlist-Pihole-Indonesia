@@ -46,6 +46,9 @@ games-prod.platocdn.com
 ib.isappcloud.com
 image.platoapp.com
 images.kaik.ai
+images.baccdn.com
+images.taboola.com
+images-dl.taboola.com
 ktracker.kumparan.com
 widget.kumparan.com
 mab.chartbeat.com
@@ -54,6 +57,11 @@ sb.scorecardresearch.com
 mdp-appconf-sg.heytapdl.com.itotolink.net
 bstream.sgmbocast.com.itotolink.net
 ads.inmobi.com
+uqeego.com
+dwhapi.data4game.com
+api.apiok.net
+api.gameanalytics.com
+api.toponadss.com
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^

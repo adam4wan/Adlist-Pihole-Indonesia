@@ -34,6 +34,7 @@ dls-udc.dqa.samsung.com
 dls.di.atlas.samsung.com
 api.shop.samsung.com
 samsungid.api.useinsider.com
+samsung-callerprofile.edge.hiyaapi.com
 ||windowsupdate.com^
 ||office365.com^
 ||msedge.net^
