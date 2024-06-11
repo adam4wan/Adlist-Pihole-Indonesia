@@ -55,6 +55,7 @@ mab.chartbeat.com
 s0.2mdn.net
 sb.scorecardresearch.com
 mdp-appconf-sg.heytapdl.com.itotolink.net
+mdp-appconf-id.heytapdl.com.itotolink.net
 bstream.sgmbocast.com.itotolink.net
 ads.inmobi.com
 uqeego.com
@@ -93,3 +94,4 @@ api.toponadss.com
 ||topanwin-game.com^
 ||hitcounter.ru^
 ||gamepe.ru^
+||skysrt.com^
