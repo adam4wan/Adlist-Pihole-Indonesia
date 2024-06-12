@@ -21,6 +21,7 @@ officeclient.microsoft.com
 ecs.office.com
 event-tracker-api.kredivo.com
 httpdns.push.oppomobile.com.itotolink.net
+i6f.weather.oppomobile.com.itotolink.net
 httpdns-push.heytapmobile.com.itotolink.net
 slb-apisnd-in.heytapmobile.com.itotolink.net
 conf-sg.dc.heytapmobi.com.realtek
@@ -37,6 +38,7 @@ samsungid.api.useinsider.com
 samsung-callerprofile.edge.hiyaapi.com
 samsung-auth.edge.hiyaapi.com
 samsungnewsapi.picks.my
+sdk.pushmessage.samsung.com
 ||windowsupdate.com^
 ||office365.com^
 ||msedge.net^
