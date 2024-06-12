@@ -38,7 +38,13 @@ samsungid.api.useinsider.com
 samsung-callerprofile.edge.hiyaapi.com
 samsung-auth.edge.hiyaapi.com
 samsungnewsapi.picks.my
+config-api.internet.apps.samsung.com
+www.internet.apps.samsung.com
 sdk.pushmessage.samsung.com
+vivo.telemetry.eyeo.com
+oppo.telemetry.eyeo.com
+vivomaa.chinanetcenter.com
+vivosec.baidu.com
 ||windowsupdate.com^
 ||office365.com^
 ||msedge.net^

@@ -63,6 +63,8 @@ dwhapi.data4game.com
 api.apiok.net
 api.gameanalytics.com
 api.toponadss.com
+feeds-id.24htopnews.mobi
+id-gr.obnews.co
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
