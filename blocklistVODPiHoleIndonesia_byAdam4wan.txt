@@ -142,3 +142,4 @@ kix-api.kpr0.com
 ||jacksonhallbarandgrille.com^
 ||gliavideo.com^
 ||crazyvideotodownload.com^
+||genyoutube.online^
