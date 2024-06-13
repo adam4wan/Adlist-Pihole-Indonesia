@@ -38,6 +38,7 @@ i-imgur-com.cdn.ampproject.org
 ||semprot.com^
 ||d000d.com^
 ||dood.com^
+||dood.pm^
 ||d0000d.com^
 ||dooood.com^
 ||doob.com^
