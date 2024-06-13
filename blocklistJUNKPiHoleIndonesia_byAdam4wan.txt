@@ -50,6 +50,7 @@ images.baccdn.com
 images.taboola.com
 images-dl.taboola.com
 ktracker.kumparan.com
+tracking.minitool.com
 widget.kumparan.com
 mab.chartbeat.com
 s0.2mdn.net
