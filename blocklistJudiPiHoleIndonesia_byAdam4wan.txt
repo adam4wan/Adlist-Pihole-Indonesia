@@ -14,7 +14,6 @@ econo.flashpush.net
 feed-6747.feedfinder23.info
 i.udmcl.com
 i.m7aq.com
-api.livechatinc.com
 ||kliniktongpeng.store^
 ||partnerwin.store^
 ||bestiebet88media.com^
@@ -71,3 +70,4 @@ api.livechatinc.com
 ||mposport00.com^
 ||100juta.online^
 ||inijeans.com^
+||livechatinc.com^
