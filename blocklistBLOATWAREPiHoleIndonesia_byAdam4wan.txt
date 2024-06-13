@@ -39,6 +39,7 @@ samsung-callerprofile.edge.hiyaapi.com
 samsung-auth.edge.hiyaapi.com
 samsungnewsapi.picks.my
 config-api.internet.apps.samsung.com
+webapk-api.internet.apps.samsung.com
 www.internet.apps.samsung.com
 sdk.pushmessage.samsung.com
 vivo.telemetry.eyeo.com

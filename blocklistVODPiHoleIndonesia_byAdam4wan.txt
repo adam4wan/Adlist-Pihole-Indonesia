@@ -28,6 +28,7 @@ vod-sg.upload.sp-cdn.shopee.com
 vod.tokopedia.net.w.kunlunsl.com
 lazvideo.lazcdn.com
 ulog.kwaipros.com.itotolink.net
+wesubscribe.online.itotolink.net
 u.viiisrbp.com
 image.tmdb.org
 tv.apple.com
@@ -143,3 +144,5 @@ kix-api.kpr0.com
 ||gliavideo.com^
 ||crazyvideotodownload.com^
 ||genyoutube.online^
+||wesubscribe.online^
+||statusdown.app^

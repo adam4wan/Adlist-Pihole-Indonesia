@@ -65,6 +65,7 @@ api.gameanalytics.com
 api.toponadss.com
 feeds-id.24htopnews.mobi
 id-gr.obnews.co
+api.helpshift.com
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
