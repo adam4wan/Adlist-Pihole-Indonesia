@@ -46,7 +46,6 @@ vivo.telemetry.eyeo.com
 oppo.telemetry.eyeo.com
 vivomaa.chinanetcenter.com
 vivosec.baidu.com
-tracking.minitool.com
 static-asm.secure.skypeassets.com
 ||windowsupdate.com^
 ||office365.com^
