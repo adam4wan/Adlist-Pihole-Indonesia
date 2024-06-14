@@ -40,6 +40,7 @@ samsung-auth.edge.hiyaapi.com
 samsungnewsapi.picks.my
 config-api.internet.apps.samsung.com
 webapk-api.internet.apps.samsung.com
+api.mop.apps.samsung.com
 www.internet.apps.samsung.com
 sdk.pushmessage.samsung.com
 vivo.telemetry.eyeo.com
@@ -88,6 +89,7 @@ static-asm.secure.skypeassets.com
 ||samsungcloudsolution.net^
 ||samsungcloudplatform.com^
 ||samsungpositioning.com^
+||samsungtvplus.com^
 ||aaplimg.com^
 ||shalltry.com^
 ||eagllwin.com^
