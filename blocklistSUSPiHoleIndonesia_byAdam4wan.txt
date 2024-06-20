@@ -25,6 +25,7 @@ zzz.m1cdn.com
 api.leanplum.com
 api.mosspf.com
 api.mossru.com
+cdn.geozo.com
 ||coogoanu.net^
 ||fileonsky.com^
 ||miniclippt.com^
