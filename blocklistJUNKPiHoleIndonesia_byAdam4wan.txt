@@ -70,6 +70,7 @@ api.helpshift.com
 api.moyoung.com
 api.joyheartstudio.com
 api.howlapm.com
+media07.gameloft.com
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
