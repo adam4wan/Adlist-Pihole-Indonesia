@@ -48,6 +48,7 @@ oppo.telemetry.eyeo.com
 vivomaa.chinanetcenter.com
 vivosec.baidu.com
 static-asm.secure.skypeassets.com
+api.samsungconsent.com
 ||windowsupdate.com^
 ||office365.com^
 ||msedge.net^
