@@ -23,6 +23,8 @@ update.8v52.com
 update.asfde.com
 zzz.m1cdn.com
 api.leanplum.com
+api.mosspf.com
+api.mossru.com
 ||coogoanu.net^
 ||fileonsky.com^
 ||miniclippt.com^
