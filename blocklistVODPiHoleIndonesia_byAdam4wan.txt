@@ -146,3 +146,6 @@ kix-api.kpr0.com
 ||genyoutube.online^
 ||wesubscribe.online^
 ||statusdown.app^
+||catbox.moe^
+||qu.ax^
+||creepy.my.id^
