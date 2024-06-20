@@ -69,6 +69,7 @@ id-gr.obnews.co
 api.helpshift.com
 api.moyoung.com
 api.joyheartstudio.com
+api.howlapm.com
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
