@@ -68,4 +68,3 @@ i-imgur-com.cdn.ampproject.org
 ||dodoroki.lol^
 ||poopvid.com^
 ||doodstream.day^
-||vercel.app^
