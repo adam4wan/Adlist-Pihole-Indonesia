@@ -50,3 +50,4 @@ cdn.geozo.com
 ||jeewhaituph.net^
 ||xcrossinglines.co.za^
 ||ovofinansial.com^
+||vercel.app^
