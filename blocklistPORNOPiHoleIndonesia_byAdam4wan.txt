@@ -42,6 +42,7 @@ i-imgur-com.cdn.ampproject.org
 ||d0000d.com^
 ||dooood.com^
 ||doob.com^
+||doobs.pro^
 ||doop.com^
 ||dood.ws^
 ||doodcdn.co^
@@ -64,3 +65,7 @@ i-imgur-com.cdn.ampproject.org
 ||cepatjadi6.click^
 ||febrare.ru^
 ||vidhide.com^
+||dodoroki.lol^
+||poopvid.com^
+||doodstream.day^
+||vercel.app^
