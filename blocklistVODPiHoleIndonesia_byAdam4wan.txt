@@ -50,6 +50,7 @@ kix-api.kpr0.com
 31.220.73.179
 101.99.94.71
 161.97.69.162
+||wetvinfo.com^
 ||streampoi.com^
 ||driveplayer.net^
 ||teads.tv^
