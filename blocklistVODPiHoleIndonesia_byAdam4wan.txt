@@ -162,7 +162,3 @@ video.canva.com
 ||videowalldirect.com^
 ||vidmateapp.com^
 ||agora.io^
-||ssyoutube.com^
-||y2meta.app^
-||downloaderto.com^
-||rapidapi.com^
