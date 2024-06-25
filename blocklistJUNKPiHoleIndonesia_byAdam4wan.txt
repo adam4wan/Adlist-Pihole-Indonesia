@@ -110,3 +110,4 @@ launches.appsflyer.com
 ||justtrack.io^
 ||palmplaystore.com^
 ||palmst0re.com^
+||pureapk.com^
