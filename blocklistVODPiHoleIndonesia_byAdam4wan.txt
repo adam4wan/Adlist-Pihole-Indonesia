@@ -161,3 +161,4 @@ video.canva.com
 ||kuaishou.com^
 ||videowalldirect.com^
 ||vidmateapp.com^
+||agora.io^
