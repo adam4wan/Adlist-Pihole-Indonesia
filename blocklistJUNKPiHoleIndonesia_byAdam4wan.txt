@@ -108,3 +108,5 @@ launches.appsflyer.com
 ||hotvideoapp.com^
 ||xcrossinglines.co.za^
 ||justtrack.io^
+||palmplaystore.com^
+||palmst0re.com^
