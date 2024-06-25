@@ -48,3 +48,5 @@ api.fundevsmp3.com
 ||droplink.co^
 ||bittorrent.com^
 ||happymod.id^
+||apkpure.com^
+||cdnpure.com^
