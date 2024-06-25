@@ -56,3 +56,4 @@ cdn.geozo.com
 ||croxyproxy.com^
 ||free-signal.com^
 ||proxyum.com^
+||gamifyspace.com^
