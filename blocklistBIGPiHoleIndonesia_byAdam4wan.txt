@@ -5,6 +5,7 @@
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 !DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
 !----------------BIG DATA------------------------
+api.fundevsmp3.com
 ||1024tera.com^
 ||terabox.com^
 ||teraboxapp.com^
