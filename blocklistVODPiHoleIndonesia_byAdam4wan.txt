@@ -157,3 +157,4 @@ video.canva.com
 ||tapstream.com^
 ||slickstream.com^
 ||kgnow.com^
+||kuaishou.com^
