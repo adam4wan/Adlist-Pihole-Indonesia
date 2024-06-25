@@ -52,3 +52,7 @@ cdn.geozo.com
 ||ovofinansial.com^
 ||vercel.app^
 ||ojrq.net^
+||proxysite.com^
+||croxyproxy.com^
+||free-signal.com^
+||proxyum.com^
