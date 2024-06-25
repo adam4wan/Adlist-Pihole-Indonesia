@@ -114,3 +114,4 @@ launches.appsflyer.com
 ||msn.com^
 ||contextads.live^
 ||inmobi.com^
+||espncdn.com^
