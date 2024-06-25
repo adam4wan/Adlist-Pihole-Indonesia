@@ -112,3 +112,4 @@ launches.appsflyer.com
 ||palmst0re.com^
 ||pureapk.com^
 ||msn.com^
+||contextads.live^
