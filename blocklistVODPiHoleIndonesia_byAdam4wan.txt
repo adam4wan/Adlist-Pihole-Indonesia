@@ -38,6 +38,8 @@ video.sindonews.com
 video-g.usicdn.com
 kix-api.kpr0.com
 short.wechat.com
+video.babybus.com
+video.canva.com
 154.26.129.195
 45.88.188.36
 54.38.155.30
@@ -154,3 +156,4 @@ short.wechat.com
 ||creepy.my.id^
 ||tapstream.com^
 ||slickstream.com^
+||kgnow.com^
