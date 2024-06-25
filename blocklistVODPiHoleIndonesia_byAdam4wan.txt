@@ -159,3 +159,4 @@ video.canva.com
 ||slickstream.com^
 ||kgnow.com^
 ||kuaishou.com^
+||videowalldirect.com^
