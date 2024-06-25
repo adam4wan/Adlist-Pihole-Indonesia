@@ -111,3 +111,4 @@ launches.appsflyer.com
 ||palmplaystore.com^
 ||palmst0re.com^
 ||pureapk.com^
+||msn.com^
