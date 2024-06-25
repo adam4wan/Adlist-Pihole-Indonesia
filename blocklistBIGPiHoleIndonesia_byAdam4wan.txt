@@ -53,3 +53,10 @@ api.fundevsmp3.com
 ||happymod.id^
 ||apkpure.com^
 ||cdnpure.com^
+||ssyoutube.com^
+||y2meta.app^
+||downloaderto.com^
+||rapidapi.com^
+||yt1s.com^
+||savefrom.net^
+||ssyou.tube^
