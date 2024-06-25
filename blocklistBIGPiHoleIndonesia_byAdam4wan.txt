@@ -45,3 +45,4 @@
 ||funpavo.com^
 ||apkpure.net^
 ||droplink.co^
+||bittorrent.com^
