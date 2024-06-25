@@ -151,3 +151,5 @@ kix-api.kpr0.com
 ||catbox.moe^
 ||qu.ax^
 ||creepy.my.id^
+||tapstream.com^
+||slickstream.com^
