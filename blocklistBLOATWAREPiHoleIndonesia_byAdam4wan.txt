@@ -49,6 +49,8 @@ vivomaa.chinanetcenter.com
 vivosec.baidu.com
 static-asm.secure.skypeassets.com
 api.samsungconsent.com
+download.mozilla.org
+download-installer.cdn.mozilla.net
 ||windowsupdate.com^
 ||office365.com^
 ||msedge.net^
