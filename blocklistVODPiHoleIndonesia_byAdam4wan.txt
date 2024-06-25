@@ -33,6 +33,7 @@ u.viiisrbp.com
 image.tmdb.org
 tv.apple.com
 tv.okezone.com
+video.okezone.com
 video.sindonews.com
 video-g.usicdn.com
 kix-api.kpr0.com
