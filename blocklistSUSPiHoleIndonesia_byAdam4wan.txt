@@ -51,3 +51,4 @@ cdn.geozo.com
 ||xcrossinglines.co.za^
 ||ovofinansial.com^
 ||vercel.app^
+||ojrq.net^
