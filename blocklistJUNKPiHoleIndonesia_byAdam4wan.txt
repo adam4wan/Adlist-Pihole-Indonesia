@@ -73,6 +73,7 @@ api.howlapm.com
 media07.gameloft.com
 tunnel.googlezip.net
 launches.appsflyer.com
+||hootsuite.com^
 ||lxtgame.com^
 ||ooppgame.com^
 ||jetgadget.xyz^
