@@ -48,6 +48,7 @@ api.fundevsmp3.com
 ||cloudstorage.co.id^
 ||funpavo.com^
 ||apkpure.net^
+||9appsinstall.com^
 ||droplink.co^
 ||bittorrent.com^
 ||happymod.id^
