@@ -98,6 +98,7 @@ download-installer.cdn.mozilla.net
 ||eagllwin.com^
 ||wshareit.com^
 ||vivo.com^
+||vivo.com.cn^
 ||facemojikeyboard.com^
 ||azureedge.net^
 ||appcenter.ms^
