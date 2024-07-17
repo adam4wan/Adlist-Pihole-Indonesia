@@ -23,10 +23,11 @@ videos.ctfassets.net
 bstream.sgmbocast.com
 bstream.sgmbocast.com.realtek
 live.shopee.co.id
-play-bs-src.livestream.shopee.co.id
-play-spe.livestream.shopee.co.id
-play-ws-src.livestream.shopee.co.id
-data-rep.livetech.shopee.co.id
+||livestream.shopee.co.id^
+!play-bs-src.livestream.shopee.co.id
+!play-spe.livestream.shopee.co.id
+!play-ws-src.livestream.shopee.co.id
+!data-rep.livetech.shopee.co.id
 vod-sg.upload.sp-cdn.shopee.com
 vod.tokopedia.net.w.kunlunsl.com
 lazvideo.lazcdn.com
