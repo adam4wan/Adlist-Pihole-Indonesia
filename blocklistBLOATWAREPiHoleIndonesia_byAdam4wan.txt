@@ -105,3 +105,4 @@ download-installer.cdn.mozilla.net
 ||microsoftapp.net^
 ||finzfin.com^
 ||pa1mstore.com^
+||mintkeyboard.com^
