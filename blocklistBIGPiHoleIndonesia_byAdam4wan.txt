@@ -1,11 +1,16 @@
 !Created by www.youtube.com/Adam4wan
 !Adlist ini dapat digunakan untuk memblokir akses ke penyedia layanan penyimpanan data
 !Contoh penyedia layanan penyimpanan cloud yang diblokir : mediafire, terabox, acefile, dropbox
+!Sebagian akses download game juga seperti akses download freefire
 !Tidak memblokir akses ke google drive, one drive dan icloud
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 !DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
 !----------------BIG DATA------------------------
 api.fundevsmp3.com
+dl.aw.freefiremobile.com
+dl.castle.freefiremobile.com
+dl.dir.freefiremobile.com
+dl.gmc.freefiremobile.com
 ||musicaldown.com^
 ||sounddownmp3.com^
 ||mp3juice.blog^
