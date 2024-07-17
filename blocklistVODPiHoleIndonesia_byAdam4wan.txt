@@ -23,11 +23,10 @@ videos.ctfassets.net
 bstream.sgmbocast.com
 bstream.sgmbocast.com.realtek
 live.shopee.co.id
-||livestream.shopee.co.id^
-!play-bs-src.livestream.shopee.co.id
-!play-spe.livestream.shopee.co.id
-!play-ws-src.livestream.shopee.co.id
-!data-rep.livetech.shopee.co.id
+play-bs-src.livestream.shopee.co.id
+play-spe.livestream.shopee.co.id
+play-ws-src.livestream.shopee.co.id
+data-rep.livetech.shopee.co.id
 vod-sg.upload.sp-cdn.shopee.com
 vod.tokopedia.net.w.kunlunsl.com
 lazvideo.lazcdn.com
@@ -58,6 +57,7 @@ video.canva.com
 31.220.73.179
 101.99.94.71
 161.97.69.162
+||livestream.shopee.co.id^
 ||wetvinfo.com^
 ||streampoi.com^
 ||driveplayer.net^
