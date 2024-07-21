@@ -45,6 +45,9 @@ i-imgur-com.cdn.ampproject.org
 ||doobs.pro^
 ||doop.com^
 ||dood.ws^
+||dood.re^
+||dood.la^
+||dood.li^
 ||doodcdn.co^
 ||embedv.net^
 ||frdl.to^
