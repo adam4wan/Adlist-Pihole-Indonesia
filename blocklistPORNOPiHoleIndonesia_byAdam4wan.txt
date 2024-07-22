@@ -71,3 +71,6 @@ i-imgur-com.cdn.ampproject.org
 ||dodoroki.lol^
 ||poopvid.com^
 ||doodstream.day^
+||poophd.net^
+||streamtape.online^
+||ds2video.com^
