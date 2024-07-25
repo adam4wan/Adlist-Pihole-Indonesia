@@ -74,3 +74,5 @@ i-imgur-com.cdn.ampproject.org
 ||poophd.net^
 ||streamtape.online^
 ||ds2video.com^
+||go-streamer.net^
+||filegram.to^
