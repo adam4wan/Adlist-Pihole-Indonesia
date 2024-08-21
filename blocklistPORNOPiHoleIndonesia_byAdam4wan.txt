@@ -76,3 +76,7 @@ i-imgur-com.cdn.ampproject.org
 ||ds2video.com^
 ||go-streamer.net^
 ||filegram.to^
+||lovelyoy.xyz^
+||d00d.co^
+||poop.my^
+||niceftie.club^
