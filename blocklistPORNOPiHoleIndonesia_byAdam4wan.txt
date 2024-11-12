@@ -49,6 +49,7 @@ i-imgur-com.cdn.ampproject.org
 ||dooood.com^
 ||doob.com^
 ||doobs.pro^
+||doods.pro^
 ||doop.com^
 ||d00d.co^
 ||dood.ws^
@@ -60,6 +61,7 @@ i-imgur-com.cdn.ampproject.org
 ||frdl.to^
 ||bembed.net^
 ||poop.co^
+||pood.pm^
 ||do0od.com^
 ||lylxan.com^
 ||videovard.sx^
@@ -89,3 +91,4 @@ i-imgur-com.cdn.ampproject.org
 ||filemoon.eu^
 ||dimakan.com^
 ||luluvdo.com^
+||baliglobal.live^
