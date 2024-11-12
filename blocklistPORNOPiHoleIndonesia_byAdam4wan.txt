@@ -38,6 +38,7 @@ i-imgur-com.cdn.ampproject.org
 ||46.166.167.16^
 ||semprot.com^
 ||d000d.com^
+||d000d.xyz^
 ||dood.com^
 ||dood.pm^
 ||dood.cm^
@@ -47,6 +48,7 @@ i-imgur-com.cdn.ampproject.org
 ||doob.com^
 ||doobs.pro^
 ||doop.com^
+||d00d.co^
 ||dood.ws^
 ||dood.re^
 ||dood.la^
@@ -80,7 +82,6 @@ i-imgur-com.cdn.ampproject.org
 ||go-streamer.net^
 ||filegram.to^
 ||lovelyoy.xyz^
-||d00d.co^
 ||poop.my^
 ||niceftie.club^
 ||filemoon.eu^
