@@ -7,6 +7,7 @@ cdn.fluidplayer.com
 dg-videos.b-cdn.net
 i-imgur-com.cdn.ampproject.org
 46.166.167.16
+||erome.com^
 ||tncdn.co^
 ||cagrat.com^
 ||ds2play.com^
@@ -43,6 +44,7 @@ i-imgur-com.cdn.ampproject.org
 ||dood.pm^
 ||dood.cm^
 ||dood.to^
+||dood.stream^
 ||d0000d.com^
 ||dooood.com^
 ||doob.com^
