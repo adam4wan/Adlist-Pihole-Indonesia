@@ -40,6 +40,7 @@ i-imgur-com.cdn.ampproject.org
 ||semprot.com^
 ||d000d.com^
 ||d000d.xyz^
+||doodweb.com^
 ||dood.com^
 ||dood.pm^
 ||dood.cm^
@@ -50,6 +51,7 @@ i-imgur-com.cdn.ampproject.org
 ||doob.com^
 ||doobs.pro^
 ||doods.pro^
+||doods.zone^
 ||doop.com^
 ||d00d.co^
 ||dood.ws^
@@ -80,7 +82,10 @@ i-imgur-com.cdn.ampproject.org
 ||dodoroki.lol^
 ||poopvid.com^
 ||doodstream.day^
+||doodstream.fun^
+||doodstream.life^
 ||poophd.net^
+||poop.center^
 ||streamtape.online^
 ||ds2video.com^
 ||go-streamer.net^
@@ -92,3 +97,4 @@ i-imgur-com.cdn.ampproject.org
 ||dimakan.com^
 ||luluvdo.com^
 ||baliglobal.live^
+||pay4fans.com^
