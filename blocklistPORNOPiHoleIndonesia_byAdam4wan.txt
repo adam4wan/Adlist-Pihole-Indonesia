@@ -25,6 +25,7 @@ i-imgur-com.cdn.ampproject.org
 ||voe.sx^
 ||imgur.com^
 ||ibb.co^
+||ibb.co.com^
 ||im-gb.com^
 ||yurivideo.com^
 ||roseimgs.com^
