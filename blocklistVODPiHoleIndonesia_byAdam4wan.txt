@@ -167,3 +167,5 @@ video.canva.com
 ||vidmateapp.com^
 ||agora.io^
 ||jalalive88.com^
+||plex.tv^
+||justwatch.com^
