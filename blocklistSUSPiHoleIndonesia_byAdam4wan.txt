@@ -59,3 +59,4 @@ cdn.geozo.com
 ||free-signal.com^
 ||proxyum.com^
 ||gamifyspace.com^
+||justpaste.it^
