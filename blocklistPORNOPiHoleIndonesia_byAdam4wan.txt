@@ -87,6 +87,8 @@ i-imgur-com.cdn.ampproject.org
 ||poophd.net^
 ||poop.center^
 ||streamtape.online^
+||streamtape.to^
+||streamtape.net^
 ||ds2video.com^
 ||go-streamer.net^
 ||filegram.to^
