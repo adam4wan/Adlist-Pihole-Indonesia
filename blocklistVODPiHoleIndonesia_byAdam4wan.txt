@@ -171,3 +171,6 @@ video.canva.com
 ||justwatch.com^
 ||papayaent.com^
 ||lita.gg^
+||poppolive.com^
+||kick.com^
+||twitch.tv^
