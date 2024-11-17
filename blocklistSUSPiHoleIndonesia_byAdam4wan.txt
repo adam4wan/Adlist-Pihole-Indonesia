@@ -60,3 +60,4 @@ cdn.geozo.com
 ||proxyum.com^
 ||gamifyspace.com^
 ||justpaste.it^
+||lita.gg^
