@@ -174,3 +174,5 @@ video.canva.com
 ||poppolive.com^
 ||kick.com^
 ||twitch.tv^
+||woolive.tv^
+||mangolive.in^
