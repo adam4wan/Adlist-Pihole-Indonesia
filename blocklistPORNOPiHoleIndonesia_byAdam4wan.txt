@@ -90,6 +90,7 @@ i-imgur-com.cdn.ampproject.org
 ||streamtape.to^
 ||streamtape.net^
 ||streamtape.xyz^
+||streamtape.cc^
 ||ds2video.com^
 ||go-streamer.net^
 ||filegram.to^
@@ -101,3 +102,5 @@ i-imgur-com.cdn.ampproject.org
 ||luluvdo.com^
 ||baliglobal.live^
 ||pay4fans.com^
+||waaw.to^
+||streamzz.to^
