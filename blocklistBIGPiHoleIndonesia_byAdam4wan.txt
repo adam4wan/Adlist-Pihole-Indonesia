@@ -26,6 +26,7 @@ dl.gmc.freefiremobile.com
 ||mega.nz^
 ||filemoon.in^
 ||filelions.com^
+||filelions.to^
 ||mixdrop.ag^
 ||mixdrop.co^
 ||mixdrop.to^
