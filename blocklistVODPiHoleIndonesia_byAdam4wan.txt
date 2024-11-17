@@ -59,6 +59,8 @@ video.canva.com
 161.97.69.162
 ||livestream.shopee.co.id^
 ||wetvinfo.com^
+||wetv.vip^
+||wetv.com^
 ||streampoi.com^
 ||driveplayer.net^
 ||teads.tv^
