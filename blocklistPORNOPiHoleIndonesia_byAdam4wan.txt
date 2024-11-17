@@ -89,6 +89,7 @@ i-imgur-com.cdn.ampproject.org
 ||streamtape.online^
 ||streamtape.to^
 ||streamtape.net^
+||streamtape.xyz^
 ||ds2video.com^
 ||go-streamer.net^
 ||filegram.to^
