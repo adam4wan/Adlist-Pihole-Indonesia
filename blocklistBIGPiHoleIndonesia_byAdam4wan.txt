@@ -68,3 +68,9 @@ dl.gmc.freefiremobile.com
 ||savefrom.net^
 ||ssyou.tube^
 ||upfile.com^
+||file.al^
+||bunkr.pk^
+||bunkr.ph^
+||bunkr.fi^
+||cyberfile.me^
+||cyberdrop.me^
