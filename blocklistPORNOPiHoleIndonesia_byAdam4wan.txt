@@ -108,3 +108,11 @@ i-imgur-com.cdn.ampproject.org
 ||waaw.to^
 ||streamzz.to^
 ||veev.to^
+||emload.com^
+||saint2.su^
+||file.al^
+||bunkr.pk^
+||bunkr.ph^
+||bunkr.fi^
+||cyberfile.me^
+||cyberdrop.me^
