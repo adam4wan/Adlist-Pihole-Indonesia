@@ -16,6 +16,7 @@ dl.gmc.freefiremobile.com
 ||mp3juice.blog^
 ||1024tera.com^
 ||terabox.com^
+||terabox.club^
 ||teraboxapp.com^
 ||1024terabox.com^
 ||acefile.co^
