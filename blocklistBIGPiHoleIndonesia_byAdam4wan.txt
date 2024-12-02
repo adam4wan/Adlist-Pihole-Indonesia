@@ -75,3 +75,4 @@ dl.gmc.freefiremobile.com
 ||bunkr.fi^
 ||cyberfile.me^
 ||cyberdrop.me^
+||dropload.io^
