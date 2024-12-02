@@ -116,3 +116,6 @@ i-imgur-com.cdn.ampproject.org
 ||bunkr.fi^
 ||cyberfile.me^
 ||cyberdrop.me^
+||vidbos.com^
+||dropload.io^
+||vinovo.to^
