@@ -47,6 +47,7 @@ i-imgur-com.cdn.ampproject.org
 ||dood.cm^
 ||dood.to^
 ||dood.yt^
+||dood.work^
 ||dood.stream^
 ||d0000d.com^
 ||dooood.com^
