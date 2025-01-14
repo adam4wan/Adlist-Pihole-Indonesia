@@ -121,3 +121,6 @@ i-imgur-com.cdn.ampproject.org
 ||vidbos.com^
 ||dropload.io^
 ||vinovo.to^
+||digoreng.com^
+||lulu.st^
+||bigwarp.io^
