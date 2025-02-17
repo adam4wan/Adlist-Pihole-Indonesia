@@ -126,3 +126,4 @@ i-imgur-com.cdn.ampproject.org
 ||digoreng.com^
 ||lulu.st^
 ||bigwarp.io^
+||buahmangga.com^
