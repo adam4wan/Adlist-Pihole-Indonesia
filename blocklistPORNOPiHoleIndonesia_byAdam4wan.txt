@@ -13,6 +13,7 @@ i-imgur-com.cdn.ampproject.org
 ||ds2play.com^
 ||imagebam.com^
 ||poophd.com^
+||poop.name^
 ||sw-cdnstreamwish.com^
 ||streamwish.com^
 ||emturbovid.com^
