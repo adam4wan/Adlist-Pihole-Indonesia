@@ -55,6 +55,7 @@ i-imgur-com.cdn.ampproject.org
 ||doob.com^
 ||doobs.pro^
 ||doods.pro^
+||doodss.pro^
 ||doods.zone^
 ||doop.com^
 ||d00d.co^
