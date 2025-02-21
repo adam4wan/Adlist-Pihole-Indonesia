@@ -63,6 +63,7 @@ i-imgur-com.cdn.ampproject.org
 ||dood.la^
 ||dood.li^
 ||dood.wf^
+||dood.lu^
 ||doods.ro^
 ||doodcdn.co^
 ||dooodster.com^
