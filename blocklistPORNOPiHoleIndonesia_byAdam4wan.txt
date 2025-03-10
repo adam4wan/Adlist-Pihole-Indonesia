@@ -46,7 +46,6 @@ i-imgur-com.cdn.ampproject.org
 ||dood.com^
 ||dood.pm^
 ||dood.cm^
-||dood.to^
 ||dood.yt^
 ||dood.work^
 ||dood.stream^
@@ -60,6 +59,7 @@ i-imgur-com.cdn.ampproject.org
 ||doodss.pro^
 ||doods.zone^
 ||doods.to^
+||dood.to^
 ||doop.com^
 ||d00d.co^
 ||dood.ws^
@@ -68,6 +68,7 @@ i-imgur-com.cdn.ampproject.org
 ||dood.li^
 ||dood.wf^
 ||dood.lu^
+||dood.fans^
 ||doods.ro^
 ||doodcdn.co^
 ||dooodster.com^
