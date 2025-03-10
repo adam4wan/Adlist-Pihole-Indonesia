@@ -50,6 +50,8 @@ i-imgur-com.cdn.ampproject.org
 ||dood.yt^
 ||dood.work^
 ||dood.stream^
+||dood.mov^
+||doodf.com^
 ||d0000d.com^
 ||dooood.com^
 ||doob.com^
@@ -130,3 +132,4 @@ i-imgur-com.cdn.ampproject.org
 ||lulu.st^
 ||bigwarp.io^
 ||buahmangga.com^
+||vidply.com^
