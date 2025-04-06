@@ -77,3 +77,4 @@ dl.gmc.freefiremobile.com
 ||cyberdrop.me^
 ||dropload.io^
 ||meong.club^
+||file-upload.org^
