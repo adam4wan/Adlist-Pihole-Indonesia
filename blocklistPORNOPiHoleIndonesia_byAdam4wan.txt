@@ -136,3 +136,4 @@ i-imgur-com.cdn.ampproject.org
 ||buahmangga.com^
 ||vidply.com^
 ||do7go.com^
+||all3do.con^
