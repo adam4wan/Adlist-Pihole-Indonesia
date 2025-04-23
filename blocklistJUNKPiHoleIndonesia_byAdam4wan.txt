@@ -119,3 +119,4 @@ download.sgameglobal.com
 ||espncdn.com^
 ||boomplaymusic.com^
 ||doedss.pro^
+||dondss.pro^
