@@ -70,6 +70,7 @@ i-imgur-com.cdn.ampproject.org
 ||dood.lu^
 ||dood.fans^
 ||doods.ro^
+||doods.at^
 ||doodcdn.co^
 ||dooodster.com^
 ||embedv.net^
