@@ -138,3 +138,7 @@ i-imgur-com.cdn.ampproject.org
 ||vidply.com^
 ||do7go.com^
 ||all3do.con^
+||mp4cash.com^
+||vide0.net^
+||doply.net^
+||vidcloudtv.net^
