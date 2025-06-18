@@ -142,3 +142,4 @@ i-imgur-com.cdn.ampproject.org
 ||vide0.net^
 ||doply.net^
 ||vidcloudtv.net^
+||savefiles.com^
