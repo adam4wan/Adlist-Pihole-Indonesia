@@ -129,6 +129,7 @@ i-imgur-com.cdn.ampproject.org
 ||cyberdrop.me^
 ||vidbos.com^
 ||dropload.io^
+||videq.mom^
 ||vinovo.to^
 ||digoreng.com^
 ||lulu.st^
