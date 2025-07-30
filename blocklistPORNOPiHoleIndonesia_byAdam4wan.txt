@@ -146,3 +146,4 @@ i-imgur-com.cdn.ampproject.org
 ||savefiles.com^
 ||vid.skin^
 ||vvide0.com^
+||d-s.io^
