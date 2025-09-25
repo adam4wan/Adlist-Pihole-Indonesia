@@ -149,3 +149,4 @@ i-imgur-com.cdn.ampproject.org
 ||vvide0.com^
 ||d-s.io^
 ||videq.tel^
+||videq.pw^
