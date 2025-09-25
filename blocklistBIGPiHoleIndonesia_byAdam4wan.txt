@@ -78,3 +78,4 @@ dl.gmc.freefiremobile.com
 ||dropload.io^
 ||meong.club^
 ||file-upload.org^
+||frdl.my^
