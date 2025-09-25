@@ -150,3 +150,5 @@ i-imgur-com.cdn.ampproject.org
 ||d-s.io^
 ||videq.tel^
 ||videq.pw^
+||dsvplay.com^
+^^
