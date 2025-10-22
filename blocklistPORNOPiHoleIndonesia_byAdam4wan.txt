@@ -73,6 +73,8 @@ i-imgur-com.cdn.ampproject.org
 ||doods.at^
 ||doodcdn.co^
 ||dooodster.com^
+||doodmv.net^
+||dood-hd.com^
 ||embedv.net^
 ||frdl.to^
 ||bembed.net^
@@ -153,4 +155,5 @@ i-imgur-com.cdn.ampproject.org
 ||vids0yto.com^
 ||eyx70elu.com^
 ||teramv.com^
+
 
