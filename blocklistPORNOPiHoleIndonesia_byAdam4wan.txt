@@ -151,4 +151,5 @@ i-imgur-com.cdn.ampproject.org
 ||videq.pw^
 ||dsvplay.com^
 ||vids0yto.com^
+||eyx70elu.com^
 
