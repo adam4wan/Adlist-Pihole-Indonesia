@@ -1,4 +1,3 @@
-
 !Created by www.youtube.com/Adam4wan
 !Adlist ini dapat digunakan untuk memblokir situs yang terafiliasi dengan konten Porno
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
@@ -151,4 +150,5 @@ i-imgur-com.cdn.ampproject.org
 ||videq.tel^
 ||videq.pw^
 ||dsvplay.com^
+||vids0yto.com^
 
