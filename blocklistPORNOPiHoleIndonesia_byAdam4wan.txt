@@ -7,6 +7,7 @@ cdn.fluidplayer.com
 dg-videos.b-cdn.net
 i-imgur-com.cdn.ampproject.org
 46.166.167.16
+||poopbnx.com^
 ||erome.com^
 ||tncdn.co^
 ||cagrat.com^
@@ -156,5 +157,6 @@ i-imgur-com.cdn.ampproject.org
 ||eyx70elu.com^
 ||teramv.com^
 ||doey07s.com^
+
 
 
