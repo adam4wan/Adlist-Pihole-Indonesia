@@ -79,6 +79,7 @@ video.canva.com
 ||nflxext.com^
 ||nflximg.com^
 ||maxstream.tv^
+||rbtvplus10.com^
 ||vidio.com^
 ||vidiocdn.net^
 ||vidiocdn.com^
@@ -179,3 +180,4 @@ video.canva.com
 ||twitch.tv^
 ||woolive.tv^
 ||mangolive.in^
+
