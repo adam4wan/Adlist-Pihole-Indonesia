@@ -78,6 +78,7 @@ i-imgur-com.cdn.ampproject.org
 ||dood-hd.com^
 ||embedv.net^
 ||frdl.to^
+||dsvplay.com^
 ||bembed.net^
 ||poop.co^
 ||pood.pm^
@@ -157,6 +158,7 @@ i-imgur-com.cdn.ampproject.org
 ||eyx70elu.com^
 ||teramv.com^
 ||doey07s.com^
+
 
 
 
