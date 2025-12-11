@@ -157,7 +157,9 @@ i-imgur-com.cdn.ampproject.org
 ||vids0yto.com^
 ||eyx70elu.com^
 ||teramv.com^
+||myvidplay.com^
 ||doey07s.com^
+
 
 
 
