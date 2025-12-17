@@ -160,6 +160,8 @@ i-imgur-com.cdn.ampproject.org
 ||teramv.com^
 ||myvidplay.com^
 ||doey07s.com^
+||strmup.cc^
+
 
 
 
