@@ -41,6 +41,7 @@ i-imgur-com.cdn.ampproject.org
 ||forumsemut.com^
 ||46.166.167.16^
 ||semprot.com^
+||senang.top^
 ||d000d.com^
 ||d000d.xyz^
 ||doodweb.com^
@@ -159,6 +160,7 @@ i-imgur-com.cdn.ampproject.org
 ||teramv.com^
 ||myvidplay.com^
 ||doey07s.com^
+
 
 
 
