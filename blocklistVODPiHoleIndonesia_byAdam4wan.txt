@@ -180,4 +180,5 @@ video.canva.com
 ||twitch.tv^
 ||woolive.tv^
 ||mangolive.in^
+||4khotvideo.com^
 
