@@ -163,7 +163,7 @@ i-imgur-com.cdn.ampproject.org
 ||strmup.cc^
 ||adblockplustape.xyz^
 ||vidoy.club^
-
+||twimg.plus^
 
 
 
