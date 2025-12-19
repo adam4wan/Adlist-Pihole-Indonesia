@@ -80,3 +80,5 @@ dl.gmc.freefiremobile.com
 ||file-upload.org^
 ||frdl.my^
 ||frdl.io^
+||upfiles.com^
+
