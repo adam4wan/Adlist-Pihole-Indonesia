@@ -161,6 +161,9 @@ i-imgur-com.cdn.ampproject.org
 ||myvidplay.com^
 ||doey07s.com^
 ||strmup.cc^
+||adblockplustape.xyz^
+||vidoy.club^
+
 
 
 
