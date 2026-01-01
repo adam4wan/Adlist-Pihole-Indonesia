@@ -7,6 +7,7 @@ cdn.fluidplayer.com
 dg-videos.b-cdn.net
 i-imgur-com.cdn.ampproject.org
 46.166.167.16
+||berbagi.app^
 ||poopbnx.com^
 ||erome.com^
 ||tncdn.co^
@@ -164,6 +165,7 @@ i-imgur-com.cdn.ampproject.org
 ||adblockplustape.xyz^
 ||vidoy.club^
 ||twimg.plus^
+
 
 
 
