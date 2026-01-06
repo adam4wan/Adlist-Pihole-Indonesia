@@ -165,6 +165,8 @@ i-imgur-com.cdn.ampproject.org
 ||adblockplustape.xyz^
 ||vidoy.club^
 ||twimg.plus^
+||vidnest.io^
+
 
 
 
