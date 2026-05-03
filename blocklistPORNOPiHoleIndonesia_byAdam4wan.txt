@@ -166,12 +166,6 @@ i-imgur-com.cdn.ampproject.org
 ||vidoy.club^
 ||twimg.plus^
 ||vidnest.io^
-
-
-
-
-
-
-
-
-
+||viduyy.work^
+||vipoy.co^
+||playmogo.com^
