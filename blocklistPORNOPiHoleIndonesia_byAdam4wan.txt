@@ -169,3 +169,4 @@ i-imgur-com.cdn.ampproject.org
 ||viduyy.work^
 ||vipoy.co^
 ||playmogo.com^
+||vidara.to^
