@@ -7,6 +7,7 @@ cdn.fluidplayer.com
 dg-videos.b-cdn.net
 i-imgur-com.cdn.ampproject.org
 46.166.167.16
+share.boodstream.cc
 ||berbagi.app^
 ||poopbnx.com^
 ||erome.com^
@@ -170,3 +171,4 @@ i-imgur-com.cdn.ampproject.org
 ||vipoy.co^
 ||playmogo.com^
 ||vidara.to^
+||kingbokep.tv^
