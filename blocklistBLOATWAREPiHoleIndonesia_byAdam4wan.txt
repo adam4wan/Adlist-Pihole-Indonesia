@@ -100,7 +100,6 @@ download-installer.cdn.mozilla.net
 ||vivo.com^
 ||vivo.com.cn^
 ||facemojikeyboard.com^
-||azureedge.net^
 ||appcenter.ms^
 ||microsoftapp.net^
 ||finzfin.com^
