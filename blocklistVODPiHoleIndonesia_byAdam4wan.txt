@@ -79,6 +79,7 @@ video.canva.com
 ||nflxext.com^
 ||nflximg.com^
 ||maxstream.tv^
+||folaplay.com^
 ||rbtvplus10.com^
 ||vidio.com^
 ||vidiocdn.net^
