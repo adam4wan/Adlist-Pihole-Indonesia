@@ -116,6 +116,7 @@ share.boodstream.cc
 ||go-streamer.net^
 ||filegram.to^
 ||lovelyoy.xyz^
+||kingbokep.tv^
 ||poop.my^
 ||niceftie.club^
 ||filemoon.eu^
@@ -173,3 +174,5 @@ share.boodstream.cc
 ||vidara.to^
 ||kingbokep.tv^
 ||vid30s.com^
+||vdko.cc^
+
