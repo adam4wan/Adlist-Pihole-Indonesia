@@ -121,6 +121,7 @@ i.m7aq.com
 ||tglinyes.icu^
 ||premier333abc.com^
 ||1x-bet.mobi^
+||1xbet.mobi^
 ||vox88vip.com^
 ||apenta1.xyz^
 ||wkg789terbaik.site^
@@ -129,5 +130,8 @@ i.m7aq.com
 ||kalshi.com^
 ||stake.com^
 ||stake.ac^
-
+||pariflow.com^
+||manifold.markets^
+||predictit.org^
+||metaculus.com^
 
