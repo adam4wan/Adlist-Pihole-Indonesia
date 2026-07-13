@@ -14,7 +14,9 @@ _Pembaruan Blocklist ini dilakukan oleh satu orang_, jika ada berkeinginan memba
 
 ## **Instalasi**
 
-Cukup salin dan tempel "RAW" alamat URL blocklist yang ingin digunakan ke bagian Adlist Pi-Hole masing-masing. Lalu, update gravity Pi-Hole agar adlist Pi-Hole memperbarui daftar adlist nya.
+Pi-Hole : Cukup salin dan tempel "RAW" alamat URL blocklist yang ingin digunakan ke bagian Adlist Pi-Hole masing-masing. Lalu, update gravity Pi-Hole agar adlist Pi-Hole memperbarui daftar adlist nya.
+
+Browser : salin dan tempel "RAW" alamat URL blocklist yang ingin digunakan ke pengaturan browser > filter list URL (contoh di browser Brave)
 
 ## **Dukungan**
 
