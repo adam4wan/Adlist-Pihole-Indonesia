@@ -61,3 +61,4 @@ cdn.geozo.com
 ||gamifyspace.com^
 ||justpaste.it^
 ||lita.gg^
+||papayaent.com^
