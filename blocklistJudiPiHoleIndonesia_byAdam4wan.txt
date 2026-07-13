@@ -134,4 +134,8 @@ i.m7aq.com
 ||manifold.markets^
 ||predictit.org^
 ||metaculus.com^
-
+||sportsgambler.com^
+||oddsshark.com^
+||oddspedia.com^
+||oddsportal.com^
+||oddschecker.com^
