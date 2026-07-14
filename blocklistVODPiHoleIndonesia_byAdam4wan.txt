@@ -81,6 +81,7 @@ video.canva.com
 ||maxstream.tv^
 ||folaplay.com^
 ||rbtvplus10.com^
+||rbtvplus18.skin^
 ||vidio.com^
 ||vidiocdn.net^
 ||vidiocdn.com^
@@ -189,3 +190,4 @@ video.canva.com
 ||poppolive.com^
 ||kako.live^
 ||ti.live^
+||fctv33hd.beer^
