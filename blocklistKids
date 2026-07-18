@@ -1,0 +1,26 @@
+!Created by www.youtube.com/Adam4wan
+!FILTER KHUSUS ANAK-ANAK
+!Adlist ini dapat digunakan untuk membatasi akses platform media sosial, video, game, dan playstore android
+!Gunakan crontab untuk membatasi akses di jam tertentu
+!Wajib menggunakan Pi-hole
+!syntax : 
+!Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
+!DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
+!----------------listSafeYourKids------------------------
+dl.aw.freefiremobile.com
+dl.castle.freefiremobile.com
+dl.dir.freefiremobile.com
+dl.gmc.freefiremobile.com
+googleplay.com
+play-fe.googleapis.com
+play-games.googleusercontent.com
+play-lh.googleusercontent.com
+play.google.com
+play.googleapis.com
+||gvt1.com^
+||roblox.com^
+||tiktokv.com^
+||tiktok.com^
+||youtube.com^
+||youtube.com^
+||freefiremobile.com^
