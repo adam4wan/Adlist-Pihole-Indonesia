@@ -15,6 +15,7 @@ dl.gmc.freefiremobile.com
 googleplay.com
 play-fe.googleapis.com
 play-games.googleusercontent.com
+play-apps-features.googleusercontent.com
 play-lh.googleusercontent.com
 play.google.com
 play.googleapis.com
@@ -25,3 +26,4 @@ play.googleapis.com
 ||youtube.com^
 ||googlevideo.com^
 ||freefiremobile.com^
+||instagram.com^
