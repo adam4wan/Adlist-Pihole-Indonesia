@@ -2,9 +2,8 @@
 !FILTER KHUSUS ANAK-ANAK
 !Adlist ini dapat digunakan untuk membatasi akses platform media sosial, video, game, dan playstore android
 !Gunakan crontab untuk membatasi akses di jam tertentu
-!Wajib menggunakan Pi-hole
-!atur syntax ini di crontab : 01 00 * * 5-7 sqlite3 /etc/pihole/gravity.db "UPDATE 'adlist' SET enabled = 1 WHERE comment = 'anakAnak';" && pihole reloaddns
-!penjelasan syntax bisa cek profil trakteer saya
+!Wajib menggunakan Pi-hole 
+!syntax automasi bisa cek profil trakteer saya
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 !DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
 !----------------listSafeYourKids------------------------
