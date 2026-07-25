@@ -8,6 +8,7 @@ dg-videos.b-cdn.net
 i-imgur-com.cdn.ampproject.org
 46.166.167.16
 share.boodstream.cc
+cdn2.aceiimg.cloud
 ||berbagi.app^
 ||poopbnx.com^
 ||erome.com^
@@ -160,6 +161,7 @@ share.boodstream.cc
 ||dsvplay.com^
 ||vids0yto.com^
 ||eyx70elu.com^
+||aceiimg.cloud^
 ||teramv.com^
 ||myvidplay.com^
 ||doey07s.com^
