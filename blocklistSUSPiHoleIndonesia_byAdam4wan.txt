@@ -62,3 +62,4 @@ cdn.geozo.com
 ||justpaste.it^
 ||lita.gg^
 ||papayaent.com^
+||bumble.com^
