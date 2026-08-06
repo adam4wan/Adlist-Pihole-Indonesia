@@ -9,6 +9,7 @@ i-imgur-com.cdn.ampproject.org
 46.166.167.16
 share.boodstream.cc
 cdn2.aceiimg.cloud
+next.hornet.com
 ||berbagi.app^
 ||poopbnx.com^
 ||erome.com^
@@ -166,6 +167,7 @@ cdn2.aceiimg.cloud
 ||myvidplay.com^
 ||doey07s.com^
 ||strmup.cc^
+||hornet.com^
 ||adblockplustape.xyz^
 ||vidoy.club^
 ||twimg.plus^
