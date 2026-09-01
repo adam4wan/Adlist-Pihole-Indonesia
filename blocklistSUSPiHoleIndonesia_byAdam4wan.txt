@@ -63,3 +63,4 @@ cdn.geozo.com
 ||lita.gg^
 ||papayaent.com^
 ||bumble.com^
+||honeygain.com^
