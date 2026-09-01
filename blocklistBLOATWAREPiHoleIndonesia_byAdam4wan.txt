@@ -27,6 +27,7 @@ slb-apisnd-in.heytapmobile.com.itotolink.net
 conf-sg.dc.heytapmobi.com.realtek
 i.warranty.oppo.com.itotolink.net
 i.warranty.oppo.com
+adsfs-id.oppomobile.com
 officeclient.microsoft.com
 componentupdater.brave.com
 go-updater.brave.com
