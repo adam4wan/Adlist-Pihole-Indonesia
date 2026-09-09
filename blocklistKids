@@ -20,8 +20,10 @@ prod-lt-playstoregatewayadapter-pa.googleapis.com
 playstoregatewayadapter-pa.googleapis.com
 play-lh.googleusercontent.com
 playatoms-pa.googleapis.com
+geller-pa.googleapis.com
 play.google.com
 play.googleapis.com
+dl.google.com
 yt3.ggpht.com
 ||market.xiaomi.com^
 ||apkpure.com^
@@ -36,6 +38,7 @@ yt3.ggpht.com
 ||tiktokpangle-cdn-us.com^
 ||ibyteimg.com^
 ||youtube.com^
+||ytimg.com^
 ||twitch.tv^
 ||kick.com^
 ||googlevideo.com^
