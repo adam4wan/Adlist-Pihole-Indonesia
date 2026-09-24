@@ -13,7 +13,11 @@ dl.dir.freefiremobile.com
 dl.gmc.freefiremobile.com
 googleplay.com
 youtubei.googleapis.com
+workspacevideo-pa.googleapis.com
+update.googleapis.com
+photos.googleapis.com
 play-fe.googleapis.com
+gameswhitelisted.googleapis.com
 play-games.googleusercontent.com
 play-apps-features.googleusercontent.com
 prod-lt-playstoregatewayadapter-pa.googleapis.com
@@ -25,6 +29,11 @@ play.google.com
 play.googleapis.com
 dl.google.com
 yt3.ggpht.com
+yt3.googleusercontent.com
+lh3.googleusercontent.com
+lh6.googleusercontent.com
+android.chat.openai.com
+id-third-appstore.vivoglobal.com
 ||market.xiaomi.com^
 ||apkpure.com^
 ||gvt1.com^
@@ -37,6 +46,7 @@ yt3.ggpht.com
 ||ttlivecdn.com^
 ||tiktokpangle.us^
 ||tiktokpangle-cdn-us.com^
+||tiktokcdn-us.com^
 ||ibyteimg.com^
 ||youtube.com^
 ||ytimg.com^
@@ -50,5 +60,9 @@ yt3.ggpht.com
 ||cdninstagram.com^
 ||fbcdn.net^
 ||facebook.com^
+||amp-endpoint3.com^
+||amp-endpoint2.com^
 ||gotube.pro^
 ||hornet.com^
+||spotify.com^
+||chatgpt.com^
