@@ -187,3 +187,4 @@ next.hornet.com
 ||watchadsontape.com^
 ||mypikpak.com^
 ||vidmonstr.com^
+||playmate.to^
