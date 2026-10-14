@@ -82,6 +82,7 @@ video.canva.com
 ||folaplay.com^
 ||rbtvplus10.com^
 ||rbtvplus18.skin^
+||rbtvplus18.casa^
 ||vidio.com^
 ||vidiocdn.net^
 ||vidiocdn.com^
