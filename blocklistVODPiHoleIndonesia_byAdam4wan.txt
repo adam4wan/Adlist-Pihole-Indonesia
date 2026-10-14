@@ -176,6 +176,7 @@ video.canva.com
 ||agora.io^
 ||jalalive88.com^
 ||plex.tv^
+||framextv.xyz^
 ||justwatch.com^
 ||papayaent.com^
 ||lita.gg^
