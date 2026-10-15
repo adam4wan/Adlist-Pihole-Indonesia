@@ -18,6 +18,7 @@ prediction-market-api.jup.ag
 polymarket-upload.s3.us-east-2.amazonaws.com
 prediction-market-price-service.fly.dev
 jupiter-card-api.jup.ag
+static.gacha.jup.ag
 ||kliniktongpeng.store^
 ||partnerwin.store^
 ||bestiebet88media.com^
