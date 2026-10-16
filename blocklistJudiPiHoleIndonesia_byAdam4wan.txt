@@ -19,6 +19,7 @@ polymarket-upload.s3.us-east-2.amazonaws.com
 prediction-market-price-service.fly.dev
 perps-api.jup.ag
 static.gacha.jup.ag
+||arweave.net^
 ||kliniktongpeng.store^
 ||partnerwin.store^
 ||bestiebet88media.com^
