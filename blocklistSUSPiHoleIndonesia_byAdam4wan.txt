@@ -64,3 +64,4 @@ cdn.geozo.com
 ||papayaent.com^
 ||bumble.com^
 ||honeygain.com^
+||pokevault.app^
