@@ -5,7 +5,10 @@
 !Data dikumpulkan dari request pengguna ke DNS lokal Pi-hole 
 !DUKUNG SAYA dengan belikan rujak cingur disini : www.trakteer.id/Adam4wan
 !----------------BismillahHEMAT------------------------
-!e-commerce
+pay.google.com
+p2p.danamas.co.id
+wallet.brave.com
+wallet.magiceden.io
 pay.shopee.sg
 api.fe.shopeepay.co.id
 api.gw.airpay.co.id
@@ -28,8 +31,11 @@ spinjam-h5.lenteradana.co.id
 ||semua.sale^
 ||matahari.com^
 ||bhinneka.com^
-
-!perbankan
+||moonpay.com^
+||alfagift.id^
+||klikindomaret.com^
+||tokopediax.com^
+||tokopedia.com^
 ||bankbjb.co.id^
 ||klikbca.com^
 ||blubybcadigital.id^
@@ -69,16 +75,10 @@ spinjam-h5.lenteradana.co.id
 ||bankjambi.co.id^
 ||bankaceh.co.id^
 ||bankbengkulu.co.id^
-
-!e-wallet
 ||dana.id^
 ||ovo.id^
 ||gopayapi.com^
 ||gojekapi.com^
-
-!crypto
-wallet.brave.com
-wallet.magiceden.io
 ||solflare.com^
 ||solflare.dev^
 ||moonshot.workers.dev^
@@ -117,6 +117,7 @@ wallet.magiceden.io
 ||bitgetapps.com^
 ||tron.network^
 ||polymarket.com^
+||chainid.network^
 ||kalshi.com^
 ||hyperliquid.xyz^
 ||chain.link^
@@ -157,9 +158,6 @@ wallet.magiceden.io
 ||ledger.com^
 ||trezor.io^
 ||tangem.com^
-
-!pinjaman-online
-p2p.danamas.co.id
 ||amartha.com^
 ||dompetkilat.co.id^
 ||kreditpintar.com^
@@ -179,13 +177,3 @@ p2p.danamas.co.id
 ||akulaku.com^
 ||lenteradana.co.id^
 ||findaya.co.id^
-
-!lainnya 
-pay.google.com
-||moonpay.com^
-||alfagift.id^
-||klikindomaret.com^
-||tokopediax.com^
-||tokopedia.com^
-
-
