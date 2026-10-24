@@ -23,3 +23,4 @@ Browser : salin dan tempel "RAW" alamat URL blocklist yang ingin digunakan ke pe
 
 Bantu saya merawat Blocklist ini dengan dukungan Anda disini
 - Trakteer : https://trakteer.id/Adam4wan
+- Crypto Solana : 6a2QL2kZVF73ywmQi73rQuSGUJSFfP7RetQTJ9xc5r3d
