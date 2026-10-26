@@ -65,3 +65,4 @@ cdn.geozo.com
 ||bumble.com^
 ||honeygain.com^
 ||pokevault.app^
+||withdraw.sh^
