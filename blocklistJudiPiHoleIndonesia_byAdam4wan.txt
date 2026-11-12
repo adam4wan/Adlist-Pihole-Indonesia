@@ -22,6 +22,7 @@ static.gacha.jup.ag
 jupiter-card-api.jup.ag
 img.phygitals.com
 ||wahoopredict.com^
+||rivalbeast.com^
 ||arweave.net^
 ||kliniktongpeng.store^
 ||partnerwin.store^
