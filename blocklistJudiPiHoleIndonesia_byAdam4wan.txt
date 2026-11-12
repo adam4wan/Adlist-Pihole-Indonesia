@@ -21,6 +21,7 @@ perps-api.jup.ag
 static.gacha.jup.ag
 jupiter-card-api.jup.ag
 img.phygitals.com
+||wahoopredict.com^
 ||arweave.net^
 ||kliniktongpeng.store^
 ||partnerwin.store^
