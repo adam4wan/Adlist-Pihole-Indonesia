@@ -21,6 +21,7 @@ perps-api.jup.ag
 static.gacha.jup.ag
 jupiter-card-api.jup.ag
 img.phygitals.com
+||housebets.com^
 ||wahoopredict.com^
 ||rivalbeast.com^
 ||arweave.net^
