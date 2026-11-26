@@ -43,6 +43,10 @@ kix-api.kpr0.com
 short.wechat.com
 video.babybus.com
 video.canva.com
+inv.nadeko.net
+yt.chocolatemoo53.com
+invidious.nerdvpn.de
+invidious.tiekoetter.com
 154.26.129.195
 45.88.188.36
 54.38.155.30
